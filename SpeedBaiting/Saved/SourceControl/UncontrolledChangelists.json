@@ -1,0 +1,43 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/kipla/Documents/Unreal Projects/SpeedBaiting/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/kipla/Documents/Unreal Projects/SpeedBaiting/Content/Maps/Map_GuppyfishLevel.umap",
+				"C:/Users/kipla/Documents/Unreal Projects/SpeedBaiting/Content/Placeholder_Images/FB_FishPlaceholder.uasset",
+				"C:/Users/kipla/Documents/Unreal Projects/SpeedBaiting/Content/Blueprints/BP_Fish.uasset",
+				"C:/Users/kipla/Documents/Unreal Projects/SpeedBaiting/Content/Placeholder_Images/S_TablePlaceholder.uasset",
+				"C:/Users/kipla/Documents/Unreal Projects/SpeedBaiting/Content/Sequences/SQ_FishDance.uasset",
+				"C:/Users/kipla/Documents/Unreal Projects/SpeedBaiting/Content/Placeholder_Images/JunkDrawer/DPC05372.uasset",
+				"C:/Users/kipla/Documents/Unreal Projects/SpeedBaiting/Content/Placeholder_Images/flat_750x_075_f-pad_750x1000_f8f8f8.uasset",
+				"C:/Users/kipla/Documents/Unreal Projects/SpeedBaiting/Content/Placeholder_Images/JunkDrawer/flat_750x_075_f-pad_750x1000_f8f8f8.uasset",
+				"C:/Users/kipla/Documents/Unreal Projects/SpeedBaiting/Content/Placeholder_Images/s-l1600.uasset",
+				"C:/Users/kipla/Documents/Unreal Projects/SpeedBaiting/Content/Placeholder_Images/JunkDrawer/s-l1600.uasset",
+				"C:/Users/kipla/Documents/Unreal Projects/SpeedBaiting/Content/Placeholder_Images/s-l1600_Sprite.uasset",
+				"C:/Users/kipla/Documents/Unreal Projects/SpeedBaiting/Content/Placeholder_Images/JunkDrawer/s-l1600_Sprite.uasset",
+				"C:/Users/kipla/Documents/Unreal Projects/SpeedBaiting/Content/Placeholder_Images/spongebob_background__by_dracoawesomeness_dfz2zib-pre.uasset",
+				"C:/Users/kipla/Documents/Unreal Projects/SpeedBaiting/Content/Placeholder_Images/JunkDrawer/spongebob_background__by_dracoawesomeness_dfz2zib-pre.uasset",
+				"C:/Users/kipla/Documents/Unreal Projects/SpeedBaiting/Content/Placeholder_Images/FB_WormPlaceholder.uasset",
+				"C:/Users/kipla/Documents/Unreal Projects/SpeedBaiting/Content/Placeholder_Images/flat_750x_075_f-pad_750x1000_f8f8f8_Sprite.uasset",
+				"C:/Users/kipla/Documents/Unreal Projects/SpeedBaiting/Content/Placeholder_Images/JunkDrawer/flat_750x_075_f-pad_750x1000_f8f8f8_Sprite.uasset",
+				"C:/Users/kipla/Documents/Unreal Projects/SpeedBaiting/Content/Placeholder_Images/S_BackdropPlaceholder.uasset",
+				"C:/Users/kipla/Documents/Unreal Projects/SpeedBaiting/Content/Placeholder_Images/spongebob_background__by_dracoawesomeness_dfz2zib-pre_Sprite.uasset",
+				"C:/Users/kipla/Documents/Unreal Projects/SpeedBaiting/Content/Blueprints/BP_Worm.uasset",
+				"C:/Users/kipla/Documents/Unreal Projects/SpeedBaiting/Content/Blueprints/BP_PlayerInput.uasset",
+				"C:/Users/kipla/Documents/Unreal Projects/SpeedBaiting/Content/Blueprints/CBP_PlayerInput.uasset",
+				"C:/Users/kipla/Documents/Unreal Projects/SpeedBaiting/Content/Placeholder_Images/JunkDrawer/doublecircle_Sprite.uasset",
+				"C:/Users/kipla/Documents/Unreal Projects/SpeedBaiting/Content/Placeholder_Images/JunkDrawer/doublecircle.uasset",
+				"C:/Users/kipla/Documents/Unreal Projects/SpeedBaiting/Content/Blueprints/GM_SpeedBaiting.uasset",
+				"C:/Users/kipla/Documents/Unreal Projects/SpeedBaiting/Content/Placeholder_Images/JunkDrawer/flushed1.uasset",
+				"C:/Users/kipla/Documents/Unreal Projects/SpeedBaiting/Content/Placeholder_Images/flushed1_Sprite.uasset",
+				"C:/Users/kipla/Documents/Unreal Projects/SpeedBaiting/Content/Placeholder_Images/JunkDrawer/flushed1_Sprite.uasset",
+				"C:/Users/kipla/Documents/Unreal Projects/SpeedBaiting/Content/Placeholder_Images/FB_BeatPlaceholder.uasset",
+				"C:/Users/kipla/Documents/Unreal Projects/SpeedBaiting/Content/Blueprints/BP_Beat.uasset",
+				"C:/Users/kipla/Documents/Unreal Projects/SpeedBaiting/Content/Placeholder_Images/FB_PlayerInput.uasset"
+			]
+		}
+	]
+}
