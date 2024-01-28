@@ -8309,3 +8309,22 @@ Script Stack (1 frames) :
 [2024.01.28-21.47.51:516][518]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=81
 [2024.01.28-21.47.51:541][518]LogUObjectHash: Compacting FUObjectHashTables data took   6.72ms
 [2024.01.28-21.47.52:042][519]LogPlayLevel: Display: Destroying online subsystem :Context_96
+[2024.01.28-21.51.56:908][254]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/Roger Cheng/Desktop/Saved/SpeedBaitingGame/SpeedBaiting 5.3/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2024.01.28-21.51.56:909][254]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/Roger Cheng/Desktop/Saved/SpeedBaitingGame/SpeedBaiting 5.3/Content/Developers/RogerCheng/Collections/' because it could not be accessed. Aborting watch request...
+[2024.01.28-21.51.56:909][254]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/Roger Cheng/Desktop/Saved/SpeedBaitingGame/SpeedBaiting 5.3/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2024.01.28-21.52.33:761][368]LogSlate: Window 'Message Log' being destroyed
+[2024.01.28-21.52.33:826][368]LogSlate: Window 'Message Log' being destroyed
+[2024.01.28-21.53.17:012][512]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2024.01.28-21.53.17:015][512]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Map_GuppyfishLevel' took 0.040
+[2024.01.28-21.53.17:016][512]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Beat] ([2] browsable assets)...
+[2024.01.28-21.53.17:016][512]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Beat]
+[2024.01.28-21.53.17:037][512]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Beat_Auto3
+[2024.01.28-21.53.17:040][512]LogSavePackage: Moving '../../../../../../Users/Roger Cheng/Desktop/Saved/SpeedBaitingGame/SpeedBaiting 5.3/Saved/BP_Beat_Auto35E48EC91414C282AE988C8A68C87167A.tmp' to '../../../../../../Users/Roger Cheng/Desktop/Saved/SpeedBaitingGame/SpeedBaiting 5.3/Saved/Autosaves/Game/Blueprints/BP_Beat_Auto3.uasset'
+[2024.01.28-21.53.17:043][512]LogFileHelpers: Auto-saving content packages took 0.028
+[2024.01.28-21.54.06:013][738]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-21.54.06:175][738]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Beat" FILE="../../../../../../Users/Roger Cheng/Desktop/Saved/SpeedBaitingGame/SpeedBaiting 5.3/Content/Blueprints/BP_Beat.uasset" SILENT=true
+[2024.01.28-21.54.06:212][738]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Beat
+[2024.01.28-21.54.06:216][738]LogSavePackage: Moving '../../../../../../Users/Roger Cheng/Desktop/Saved/SpeedBaitingGame/SpeedBaiting 5.3/Saved/BP_BeatFE83A674459A23925E915EA17D13D675.tmp' to '../../../../../../Users/Roger Cheng/Desktop/Saved/SpeedBaitingGame/SpeedBaiting 5.3/Content/Blueprints/BP_Beat.uasset'
+[2024.01.28-21.54.06:245][738]LogFileHelpers: InternalPromptForCheckoutAndSave took 231 ms (total: 3.62 sec)
+[2024.01.28-21.54.06:252][738]AssetCheck: New page: Asset Save: BP_Beat
+[2024.01.28-21.54.06:252][738]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Beat.BP_Beat
