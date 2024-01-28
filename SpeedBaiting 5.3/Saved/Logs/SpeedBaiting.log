@@ -3871,3 +3871,520 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2024.01.28-01.44.25:311][547]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
 [2024.01.28-01.44.25:325][547]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
 [2024.01.28-01.44.25:422][548]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2024.01.28-01.46.16:667][986]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.28-01.46.16:677][986]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.28-01.46.16:677][986]PIE: New page: PIE session: Map_GuppyfishLevel (Jan 27, 2024, 9:46:16 AM)
+[2024.01.28-01.46.16:677][986]LogPlayLevel: Display: Creating online subsystem for client :Context_56
+[2024.01.28-01.46.16:680][986]LogOnline: OSS: Created online subsystem instance for: :Context_56
+[2024.01.28-01.46.16:705][987]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_GuppyfishLevel
+[2024.01.28-01.46.16:707][987]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002446s)
+[2024.01.28-01.46.16:707][987]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_GuppyfishLevel.Map_GuppyfishLevel to /Game/Maps/UEDPIE_0_Map_GuppyfishLevel.Map_GuppyfishLevel (0.002502s)
+[2024.01.28-01.46.16:732][987]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2024.01.28-01.46.16:735][987]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-01.46.16:736][987]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-01.46.16:736][987]LogAIModule: Creating AISystem for world Map_GuppyfishLevel
+[2024.01.28-01.46.16:737][987]LogPlayLevel: PIE: World Init took: (0.001279s)
+[2024.01.28-01.46.16:737][987]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2024.01.28-01.46.16:737][987]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.28-01.46.16:737][987]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.28-01.46.16:737][987]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.28-01.46.16:737][987]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.28-01.46.16:737][987]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.28-01.46.16:737][987]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.28-01.46.16:737][987]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.28-01.46.16:737][987]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.28-01.46.16:738][987]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.28-01.46.16:738][987]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.28-01.46.16:738][987]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.28-01.46.16:740][987]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.28-01.46.16:791][987]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2024.01.28-01.46.16:792][987]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.28-01.46.16:792][987]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.28-01.46.16:792][987]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.28-01.46.16:794][987]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=41
+[2024.01.28-01.46.16:794][987]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=41
+[2024.01.28-01.46.16:797][987]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=41
+[2024.01.28-01.46.16:797][987]LogInit: FAudioDevice initialized with ID 41.
+[2024.01.28-01.46.16:797][987]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=41
+[2024.01.28-01.46.16:797][987]LogAudio: Display: Audio Device (ID: 41) registered with world 'Map_GuppyfishLevel'.
+[2024.01.28-01.46.16:797][987]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 41
+[2024.01.28-01.46.16:801][987]LogLoad: Game class is 'GM_SpeedBaiting_C'
+[2024.01.28-01.46.16:802][987]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_GuppyfishLevel.Map_GuppyfishLevel up for play (max tick rate 60) at 2024.01.27-17.46.16
+[2024.01.28-01.46.16:802][987]LogWorld: Bringing up level for play took: 0.001045
+[2024.01.28-01.46.16:807][987]PIE: Server logged in
+[2024.01.28-01.46.16:809][987]PIE: Play in editor total start time 0.132 seconds.
+[2024.01.28-01.46.28:040][645]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-01.46.28:040][645]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_GuppyfishLevel
+[2024.01.28-01.46.28:041][645]LogWorld: UWorld::CleanupWorld for Map_GuppyfishLevel, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-01.46.28:041][645]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-01.46.28:053][645]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.28-01.46.28:059][645]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-01.46.28:084][645]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-01.46.28:084][645]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 41
+[2024.01.28-01.46.28:084][645]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2024.01.28-01.46.28:087][645]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2024.01.28-01.46.28:103][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2024.01.28-01.46.28:248][646]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2024.01.28-01.46.36:277][102]LogViewport: Scene viewport resized to 1088x620, mode Windowed.
+[2024.01.28-01.46.36:313][103]LogViewport: Scene viewport resized to 1088x578, mode Windowed.
+[2024.01.28-01.46.36:351][104]LogViewport: Scene viewport resized to 1088x501, mode Windowed.
+[2024.01.28-01.46.36:393][105]LogViewport: Scene viewport resized to 1088x445, mode Windowed.
+[2024.01.28-01.46.36:431][106]LogViewport: Scene viewport resized to 1088x427, mode Windowed.
+[2024.01.28-01.46.36:467][107]LogViewport: Scene viewport resized to 1088x426, mode Windowed.
+[2024.01.28-01.46.53:227][923]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Sequences/SQ_FishDance.SQ_FishDance
+[2024.01.28-01.49.26:145][822]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.01.28-01.49.26:171][822]LogContentBrowser: Creating deferred item: NewFolder
+[2024.01.28-01.49.26:193][823]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.01.28-01.49.28:135][924]LogContentBrowser: Attempting asset rename: NewFolder -> Images
+[2024.01.28-01.49.28:138][924]LogContentBrowser: End creating deferred item NewFolder
+[2024.01.28-01.49.36:051][141]LogInterchangeEngine: [Pending] Importing
+[2024.01.28-01.49.36:051][141]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Scott/Downloads/WORM.png]
+[2024.01.28-01.49.36:133][142]LogInterchangeEngine: [Pending] Importing
+[2024.01.28-01.49.36:142][142]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.01.28-01.49.36:174][143]LogInterchangeEngine: [Success] Import Done
+[2024.01.28-01.49.36:175][143]LogTexture: Display: Building textures: /Game/Images/WORM.WORM (TFO_AutoDXT, 2100x1500 x1x1x1) (Required Memory Estimate: 216.355835 MB), EncodeSpeed: Fast
+[2024.01.28-01.49.36:279][144]LogInterchangeEngine: [Success] Import Done
+[2024.01.28-01.49.40:386][313]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.01.28-01.49.43:753][404]LogShaderCompilers: Display: ================================================
+[2024.01.28-01.49.43:753][404]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.28-01.49.43:753][404]LogShaderCompilers: Display: Total job queries 33, among them cache hits 0 (0.00%)
+[2024.01.28-01.49.43:753][404]LogShaderCompilers: Display: Tracking 3 distinct input hashes that result in 3 distinct outputs (100.00%)
+[2024.01.28-01.49.43:753][404]LogShaderCompilers: Display: RAM used: 53.86 KiB of 819.20 MiB budget. Usage: 0.01%
+[2024.01.28-01.49.43:753][404]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.28-01.49.43:753][404]LogShaderCompilers: Display: Shaders Compiled: 3
+[2024.01.28-01.49.43:753][404]LogShaderCompilers: Display: Jobs assigned 11, completed 3 (27.27%)
+[2024.01.28-01.49.43:753][404]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2024.01.28-01.49.43:753][404]LogShaderCompilers: Display: Time job spent in pending queue: average 0.60 s, longest 2.10 s
+[2024.01.28-01.49.43:753][404]LogShaderCompilers: Display: Job execution time: average 2.05 s, max 2.05 s
+[2024.01.28-01.49.43:754][404]LogShaderCompilers: Display: Job life time (pending + execution): average 2.10 s, max 2.10
+[2024.01.28-01.49.43:754][404]LogShaderCompilers: Display: Shader code size: average 30.396 KiB, min 29.059 KiB, max 31.852 KiB
+[2024.01.28-01.49.43:754][404]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.10 s
+[2024.01.28-01.49.43:754][404]LogShaderCompilers: Display: Jobs were issued in 11 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.01.28-01.49.43:754][404]LogShaderCompilers: Display: Average processing rate: 1.43 jobs/sec
+[2024.01.28-01.49.43:754][404]LogShaderCompilers: Display: Total thread time: 2.222 s
+[2024.01.28-01.49.43:754][404]LogShaderCompilers: Display: Total thread preprocess time: 0.53 s
+[2024.01.28-01.49.43:754][404]LogShaderCompilers: Display: Percentage time preprocessing: 23.84%
+[2024.01.28-01.49.43:754][404]LogShaderCompilers: Display: Effective parallelization: 1.06 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.01.28-01.49.43:754][404]LogShaderCompilers: Display: Top 3 most expensive shader types by average time:
+[2024.01.28-01.49.43:754][404]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    1 times, average 0.75 sec, max 0.75 sec, min 0.75 sec)
+[2024.01.28-01.49.43:754][404]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.75 sec, max 0.75 sec, min 0.75 sec)
+[2024.01.28-01.49.43:754][404]LogShaderCompilers: Display:         TShadowDepthPSPixelShadowDepth_NonPerspectiveCorrect (compiled    1 times, average 0.72 sec, max 0.72 sec, min 0.72 sec)
+[2024.01.28-01.49.43:755][404]LogShaderCompilers: Display: Top 3 shader types by total compile time:
+[2024.01.28-01.49.43:755][404]LogShaderCompilers: Display:                                                  FHitProxyPS - 33.91% of total time (compiled    1 times, average 0.75 sec, max 0.75 sec, min 0.75 sec)
+[2024.01.28-01.49.43:755][404]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 33.55% of total time (compiled    1 times, average 0.75 sec, max 0.75 sec, min 0.75 sec)
+[2024.01.28-01.49.43:755][404]LogShaderCompilers: Display:         TShadowDepthPSPixelShadowDepth_NonPerspectiveCorrect - 32.54% of total time (compiled    1 times, average 0.72 sec, max 0.72 sec, min 0.72 sec)
+[2024.01.28-01.49.43:756][404]LogShaderCompilers: Display: ================================================
+[2024.01.28-01.49.45:671][413]Cmd: TRANSACTION UNDO
+[2024.01.28-01.49.45:671][413]LogEditorTransaction: Undo Create Actors
+[2024.01.28-01.49.49:672][496]LogSlate: Took 0.000388 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.01.28-01.49.58:028][850]Cmd: TRANSACTION UNDO
+[2024.01.28-01.49.58:029][850]LogEditorTransaction: Undo Create Actors
+[2024.01.28-01.50.25:196][798]LogContentBrowser: Deferred new asset file creation: NewPaperFlipbook
+[2024.01.28-01.50.25:217][798]LogContentBrowser: Creating deferred item: NewPaperFlipbook
+[2024.01.28-01.50.25:252][799]LogContentBrowser: Renaming the item being created (Deferred Item: NewPaperFlipbook).
+[2024.01.28-01.50.27:020][873]LogContentBrowser: Attempting asset rename: NewPaperFlipbook -> NewPaperFlipbook
+[2024.01.28-01.50.27:023][873]LogContentBrowser: End creating deferred item NewPaperFlipbook
+[2024.01.28-01.50.28:813][930]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Images/NewPaperFlipbook.NewPaperFlipbook
+[2024.01.28-01.50.28:822][930]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-01.50.28:822][930]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-01.50.29:096][930]LogViewport: Scene viewport resized to 1523x711, mode Windowed.
+[2024.01.28-01.50.33:315][ 71]LogViewport: Scene viewport resized to 1523x691, mode Windowed.
+[2024.01.28-01.50.35:193][134]LogSlate: Window 'NewPaperFlipbook' being destroyed
+[2024.01.28-01.50.35:208][134]LogSlate: Window 'NewPaperFlipbook' being destroyed
+[2024.01.28-01.50.35:217][134]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-01.50.35:217][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-01.50.35:360][134]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.28-01.50.35:360][134]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-01.50.35:360][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-01.50.35:505][134]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.28-01.50.35:505][134]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-01.50.35:505][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-01.50.35:634][134]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-01.50.35:634][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-01.50.37:316][201]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Placeholder_Images/FB_WormPlaceholder.FB_WormPlaceholder
+[2024.01.28-01.50.37:317][201]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-01.50.37:318][201]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-01.50.37:594][201]LogViewport: Scene viewport resized to 1523x691, mode Windowed.
+[2024.01.28-01.51.09:265][123]LogSlate: Window 'FB_WormPlaceholder' being destroyed
+[2024.01.28-01.51.09:280][123]LogSlate: Window 'FB_WormPlaceholder' being destroyed
+[2024.01.28-01.51.09:311][123]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-01.51.09:311][123]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-01.51.25:941][698]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Images/NewPaperFlipbook.NewPaperFlipbook
+[2024.01.28-01.51.25:942][698]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-01.51.25:942][698]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-01.51.26:228][698]LogViewport: Scene viewport resized to 1523x691, mode Windowed.
+[2024.01.28-01.51.59:067][959]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2024.01.28-01.51.59:077][959]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Map_GuppyfishLevel' took 0.061
+[2024.01.28-01.51.59:077][959]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/CBP_PlayerInput] ([2] browsable assets)...
+[2024.01.28-01.51.59:078][959]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/CBP_PlayerInput]
+[2024.01.28-01.51.59:088][959]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/CBP_PlayerInput_Auto4
+[2024.01.28-01.51.59:088][959]LogSavePackage: Moving '../../../../../Users/Scott/Documents/GitHub/SpeedBaitingGame/SpeedBaiting 5.3/Saved/CBP_PlayerInput_Auto40B77CD7C4F3D85556A6C36B8CA2C0061.tmp' to '../../../../../Users/Scott/Documents/GitHub/SpeedBaitingGame/SpeedBaiting 5.3/Saved/Autosaves/Game/Blueprints/CBP_PlayerInput_Auto4.uasset'
+[2024.01.28-01.51.59:092][959]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Images/WORM] ([1] browsable assets)...
+[2024.01.28-01.51.59:099][959]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Images/WORM.WORM]
+[2024.01.28-01.51.59:099][959]OBJ SavePackage: Finished generating thumbnails for package [/Game/Images/WORM]
+[2024.01.28-01.51.59:117][959]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Images/WORM_Auto4
+[2024.01.28-01.51.59:117][959]LogSavePackage: Moving '../../../../../Users/Scott/Documents/GitHub/SpeedBaitingGame/SpeedBaiting 5.3/Saved/WORM_Auto462A2637F4681F74D106D4686993E6ACD.tmp' to '../../../../../Users/Scott/Documents/GitHub/SpeedBaitingGame/SpeedBaiting 5.3/Saved/Autosaves/Game/Images/WORM_Auto4.uasset'
+[2024.01.28-01.51.59:121][959]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Images/NewPaperFlipbook] ([1] browsable assets)...
+[2024.01.28-01.51.59:131][959]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/Images/NewPaperFlipbook.NewPaperFlipbook]
+[2024.01.28-01.51.59:131][959]OBJ SavePackage: Finished generating thumbnails for package [/Game/Images/NewPaperFlipbook]
+[2024.01.28-01.51.59:134][959]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Images/NewPaperFlipbook_Auto4
+[2024.01.28-01.51.59:134][959]LogSavePackage: Moving '../../../../../Users/Scott/Documents/GitHub/SpeedBaitingGame/SpeedBaiting 5.3/Saved/NewPaperFlipbook_Auto44843CF7E48EE4AC62FBAFBA5B2DC62CE.tmp' to '../../../../../Users/Scott/Documents/GitHub/SpeedBaitingGame/SpeedBaiting 5.3/Saved/Autosaves/Game/Images/NewPaperFlipbook_Auto4.uasset'
+[2024.01.28-01.51.59:137][959]LogFileHelpers: Auto-saving content packages took 0.060
+[2024.01.28-01.53.28:494][241]Cmd: TRANSACTION UNDO
+[2024.01.28-01.53.28:494][241]LogEditorTransaction: Undo Insert Key Frame
+[2024.01.28-01.54.15:302][ 68]LogActorFactory: Actor Factory attempting to spawn PaperSprite /Game/Images/WORM_Sprite.WORM_Sprite
+[2024.01.28-01.54.15:302][ 68]LogActorFactory: Actor Factory attempting to spawn PaperSprite /Game/Images/WORM_Sprite.WORM_Sprite
+[2024.01.28-01.54.15:303][ 68]LogActorFactory: Actor Factory spawned PaperSprite /Game/Images/WORM_Sprite.WORM_Sprite as actor: PaperSpriteActor /Game/Maps/Map_GuppyfishLevel.Map_GuppyfishLevel:PersistentLevel.PaperSpriteActor_0
+[2024.01.28-01.54.15:306][ 68]LogActorFactory: Actor Factory spawned PaperSprite /Game/Images/WORM_Sprite.WORM_Sprite as actor: PaperSpriteActor /Game/Maps/Map_GuppyfishLevel.Map_GuppyfishLevel:PersistentLevel.PaperSpriteActor_0
+[2024.01.28-01.54.22:806][407]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.28-01.54.22:821][407]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.28-01.54.22:821][407]PIE: New page: PIE session: Map_GuppyfishLevel (Jan 27, 2024, 9:54:22 AM)
+[2024.01.28-01.54.22:821][407]LogPlayLevel: Display: Creating online subsystem for client :Context_60
+[2024.01.28-01.54.22:825][407]LogOnline: OSS: Created online subsystem instance for: :Context_60
+[2024.01.28-01.54.22:866][408]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_GuppyfishLevel
+[2024.01.28-01.54.22:871][408]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005346s)
+[2024.01.28-01.54.22:871][408]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_GuppyfishLevel.Map_GuppyfishLevel to /Game/Maps/UEDPIE_0_Map_GuppyfishLevel.Map_GuppyfishLevel (0.005542s)
+[2024.01.28-01.54.22:902][408]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2024.01.28-01.54.22:907][408]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-01.54.22:908][408]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-01.54.22:909][408]LogAIModule: Creating AISystem for world Map_GuppyfishLevel
+[2024.01.28-01.54.22:909][408]LogPlayLevel: PIE: World Init took: (0.001974s)
+[2024.01.28-01.54.22:909][408]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2024.01.28-01.54.22:910][408]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.28-01.54.22:910][408]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.28-01.54.22:910][408]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.28-01.54.22:910][408]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.28-01.54.22:910][408]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.28-01.54.22:910][408]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.28-01.54.22:910][408]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.28-01.54.22:910][408]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.28-01.54.22:911][408]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.28-01.54.22:912][408]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.28-01.54.22:912][408]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.28-01.54.22:915][408]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.28-01.54.22:992][408]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2024.01.28-01.54.22:996][408]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.28-01.54.22:997][408]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.28-01.54.22:997][408]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.28-01.54.23:004][408]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=42
+[2024.01.28-01.54.23:004][408]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=42
+[2024.01.28-01.54.23:012][408]LogInit: FAudioDevice initialized with ID 42.
+[2024.01.28-01.54.23:012][408]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=42
+[2024.01.28-01.54.23:012][408]LogAudio: Display: Audio Device (ID: 42) registered with world 'Map_GuppyfishLevel'.
+[2024.01.28-01.54.23:012][408]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=42
+[2024.01.28-01.54.23:012][408]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 42
+[2024.01.28-01.54.23:021][408]LogLoad: Game class is 'GM_SpeedBaiting_C'
+[2024.01.28-01.54.23:025][408]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_GuppyfishLevel.Map_GuppyfishLevel up for play (max tick rate 60) at 2024.01.27-17.54.23
+[2024.01.28-01.54.23:027][408]LogWorld: Bringing up level for play took: 0.004155
+[2024.01.28-01.54.23:036][408]PIE: Server logged in
+[2024.01.28-01.54.23:039][408]PIE: Play in editor total start time 0.22 seconds.
+[2024.01.28-01.54.32:891][955]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-01.54.32:891][955]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_GuppyfishLevel
+[2024.01.28-01.54.32:891][955]LogWorld: UWorld::CleanupWorld for Map_GuppyfishLevel, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-01.54.32:892][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-01.54.32:897][955]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.28-01.54.32:898][955]LogOutputDevice: Warning: 
+
+Script Stack (0 frames) :
+
+[2024.01.28-01.54.33:236][955]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.338 s
+[2024.01.28-01.54.33:236][955]LogOutputDevice: Error: === Handled ensure: ===
+[2024.01.28-01.54.33:236][955]LogOutputDevice: Error: 
+[2024.01.28-01.54.33:236][955]LogOutputDevice: Error: Ensure condition failed: GPlayInEditorID == INDEX_NONE  [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Engine\Private\UnrealEngine.cpp] [Line: 603] 
+[2024.01.28-01.54.33:236][955]LogOutputDevice: Error: 
+[2024.01.28-01.54.33:236][955]LogOutputDevice: Error: Stack: 
+[2024.01.28-01.54.33:236][955]LogOutputDevice: Error: [Callstack] 0x00007ff8c8c9bc00 UnrealEditor-Engine.dll!UnknownFunction []
+[2024.01.28-01.54.33:236][955]LogOutputDevice: Error: [Callstack] 0x00007ff8c8beb758 UnrealEditor-Engine.dll!UnknownFunction []
+[2024.01.28-01.54.33:236][955]LogOutputDevice: Error: [Callstack] 0x00007ff8db2fc86b UnrealEditor-LevelSequence.dll!UnknownFunction []
+[2024.01.28-01.54.33:236][955]LogOutputDevice: Error: [Callstack] 0x00007ff8db2fcb95 UnrealEditor-LevelSequence.dll!UnknownFunction []
+[2024.01.28-01.54.33:237][955]LogOutputDevice: Error: [Callstack] 0x00007ff8db2f33e7 UnrealEditor-LevelSequence.dll!UnknownFunction []
+[2024.01.28-01.54.33:237][955]LogOutputDevice: Error: [Callstack] 0x00007ff8db2f343d UnrealEditor-LevelSequence.dll!UnknownFunction []
+[2024.01.28-01.54.33:237][955]LogOutputDevice: Error: [Callstack] 0x00007ff8bc16ed90 UnrealEditor-MovieScene.dll!UnknownFunction []
+[2024.01.28-01.54.33:237][955]LogOutputDevice: Error: [Callstack] 0x00007ff8bc110d5e UnrealEditor-MovieScene.dll!UnknownFunction []
+[2024.01.28-01.54.33:237][955]LogOutputDevice: Error: [Callstack] 0x00007ff8bc09d657 UnrealEditor-MovieScene.dll!UnknownFunction []
+[2024.01.28-01.54.33:237][955]LogOutputDevice: Error: [Callstack] 0x00007ff8bc06ccbe UnrealEditor-MovieScene.dll!UnknownFunction []
+[2024.01.28-01.54.33:237][955]LogOutputDevice: Error: [Callstack] 0x00007ff8bc0a33f6 UnrealEditor-MovieScene.dll!UnknownFunction []
+[2024.01.28-01.54.33:237][955]LogOutputDevice: Error: [Callstack] 0x00007ff8bc085253 UnrealEditor-MovieScene.dll!UnknownFunction []
+[2024.01.28-01.54.33:237][955]LogOutputDevice: Error: [Callstack] 0x00007ff8bc0a3ea9 UnrealEditor-MovieScene.dll!UnknownFunction []
+[2024.01.28-01.54.33:237][955]LogOutputDevice: Error: [Callstack] 0x00007ff8bc020256 UnrealEditor-MovieScene.dll!UnknownFunction []
+[2024.01.28-01.54.33:237][955]LogOutputDevice: Error: [Callstack] 0x00007ff8bc06f5ec UnrealEditor-MovieScene.dll!UnknownFunction []
+[2024.01.28-01.54.33:237][955]LogOutputDevice: Error: [Callstack] 0x00007ff8bc06c14a UnrealEditor-MovieScene.dll!UnknownFunction []
+[2024.01.28-01.54.33:237][955]LogOutputDevice: Error: [Callstack] 0x00007ff8bc06c61b UnrealEditor-MovieScene.dll!UnknownFunction []
+[2024.01.28-01.54.33:237][955]LogOutputDevice: Error: [Callstack] 0x00007ff8bc10c6bd UnrealEditor-MovieScene.dll!UnknownFunction []
+[2024.01.28-01.54.33:237][955]LogOutputDevice: Error: [Callstack] 0x00007ff8b4c3095c UnrealEditor-Sequencer.dll!UnknownFunction []
+[2024.01.28-01.54.33:237][955]LogOutputDevice: Error: [Callstack] 0x00007ff8b4c42cda UnrealEditor-Sequencer.dll!UnknownFunction []
+[2024.01.28-01.54.33:237][955]LogOutputDevice: Error: [Callstack] 0x00007ff8b4b24355 UnrealEditor-Sequencer.dll!UnknownFunction []
+[2024.01.28-01.54.33:237][955]LogOutputDevice: Error: [Callstack] 0x00007ff8b4b25c34 UnrealEditor-Sequencer.dll!UnknownFunction []
+[2024.01.28-01.54.33:237][955]LogOutputDevice: Error: [Callstack] 0x00007ff8b4b16a47 UnrealEditor-Sequencer.dll!UnknownFunction []
+[2024.01.28-01.54.33:237][955]LogOutputDevice: Error: [Callstack] 0x00007ff8c3ff4804 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.01.28-01.54.33:237][955]LogOutputDevice: Error: [Callstack] 0x00007ff8c4f52e42 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.01.28-01.54.33:237][955]LogOutputDevice: Error: [Callstack] 0x00007ff8c480712a UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.01.28-01.54.33:237][955]LogOutputDevice: Error: [Callstack] 0x00007ff8c545ea06 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.01.28-01.54.33:237][955]LogOutputDevice: Error: [Callstack] 0x00007ff7d0548af2 UnrealEditor.exe!UnknownFunction []
+[2024.01.28-01.54.33:237][955]LogOutputDevice: Error: [Callstack] 0x00007ff7d056d28c UnrealEditor.exe!UnknownFunction []
+[2024.01.28-01.54.33:237][955]LogOutputDevice: Error: [Callstack] 0x00007ff7d056d37a UnrealEditor.exe!UnknownFunction []
+[2024.01.28-01.54.33:237][955]LogOutputDevice: Error: [Callstack] 0x00007ff7d0570854 UnrealEditor.exe!UnknownFunction []
+[2024.01.28-01.54.33:237][955]LogOutputDevice: Error: [Callstack] 0x00007ff7d0586984 UnrealEditor.exe!UnknownFunction []
+[2024.01.28-01.54.33:237][955]LogOutputDevice: Error: [Callstack] 0x00007ff7d0589d7a UnrealEditor.exe!UnknownFunction []
+[2024.01.28-01.54.33:237][955]LogOutputDevice: Error: [Callstack] 0x00007ff95d057344 KERNEL32.DLL!UnknownFunction []
+[2024.01.28-01.54.33:237][955]LogOutputDevice: Error: [Callstack] 0x00007ff95d9e26b1 ntdll.dll!UnknownFunction []
+[2024.01.28-01.54.33:237][955]LogOutputDevice: Error: 
+[2024.01.28-01.54.33:242][955]LogStats:                SubmitErrorReport -  0.000 s
+[2024.01.28-01.54.37:249][955]LogStats:                    SendNewReport -  4.007 s
+[2024.01.28-01.54.37:249][955]LogStats:             FDebug::EnsureFailed -  4.351 s
+[2024.01.28-01.54.37:255][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-01.54.37:279][955]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-01.54.37:280][955]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 42
+[2024.01.28-01.54.37:280][955]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2024.01.28-01.54.37:284][955]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2024.01.28-01.54.37:298][955]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2024.01.28-01.54.37:429][956]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2024.01.28-01.54.38:882][  7]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2024.01.28-01.54.40:119][  7]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.28-01.54.52:086][615]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.28-01.54.52:100][615]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.28-01.54.52:100][615]PIE: New page: PIE session: Map_GuppyfishLevel (Jan 27, 2024, 9:54:52 AM)
+[2024.01.28-01.54.52:100][615]LogPlayLevel: Display: Creating online subsystem for client :Context_61
+[2024.01.28-01.54.52:105][615]LogOnline: OSS: Created online subsystem instance for: :Context_61
+[2024.01.28-01.54.52:138][616]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_GuppyfishLevel
+[2024.01.28-01.54.52:141][616]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002959s)
+[2024.01.28-01.54.52:141][616]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_GuppyfishLevel.Map_GuppyfishLevel to /Game/Maps/UEDPIE_0_Map_GuppyfishLevel.Map_GuppyfishLevel (0.003035s)
+[2024.01.28-01.54.52:180][616]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2024.01.28-01.54.52:185][616]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-01.54.52:185][616]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-01.54.52:186][616]LogAIModule: Creating AISystem for world Map_GuppyfishLevel
+[2024.01.28-01.54.52:186][616]LogPlayLevel: PIE: World Init took: (0.001613s)
+[2024.01.28-01.54.52:186][616]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2024.01.28-01.54.52:186][616]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.28-01.54.52:186][616]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.28-01.54.52:186][616]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.28-01.54.52:186][616]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.28-01.54.52:186][616]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.28-01.54.52:186][616]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.28-01.54.52:186][616]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.28-01.54.52:186][616]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.28-01.54.52:187][616]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.28-01.54.52:187][616]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.28-01.54.52:187][616]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.28-01.54.52:191][616]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.28-01.54.52:250][616]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2024.01.28-01.54.52:251][616]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.28-01.54.52:251][616]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.28-01.54.52:251][616]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.28-01.54.52:252][616]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=43
+[2024.01.28-01.54.52:252][616]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=43
+[2024.01.28-01.54.52:255][616]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=43
+[2024.01.28-01.54.52:255][616]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=43
+[2024.01.28-01.54.52:255][616]LogInit: FAudioDevice initialized with ID 43.
+[2024.01.28-01.54.52:255][616]LogAudio: Display: Audio Device (ID: 43) registered with world 'Map_GuppyfishLevel'.
+[2024.01.28-01.54.52:255][616]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 43
+[2024.01.28-01.54.52:260][616]LogLoad: Game class is 'GM_SpeedBaiting_C'
+[2024.01.28-01.54.52:262][616]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_GuppyfishLevel.Map_GuppyfishLevel up for play (max tick rate 60) at 2024.01.27-17.54.52
+[2024.01.28-01.54.52:262][616]LogWorld: Bringing up level for play took: 0.001197
+[2024.01.28-01.54.52:267][616]PIE: Server logged in
+[2024.01.28-01.54.52:268][616]PIE: Play in editor total start time 0.169 seconds.
+[2024.01.28-01.55.09:003][518]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-01.55.09:003][518]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_GuppyfishLevel
+[2024.01.28-01.55.09:004][518]LogWorld: UWorld::CleanupWorld for Map_GuppyfishLevel, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-01.55.09:005][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-01.55.09:015][518]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.28-01.55.09:035][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-01.55.09:080][518]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.28-01.55.09:081][518]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 43
+[2024.01.28-01.55.09:081][518]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2024.01.28-01.55.09:087][518]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2024.01.28-01.55.09:104][518]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-01.55.09:115][518]LogUObjectHash: Compacting FUObjectHashTables data took   5.45ms
+[2024.01.28-01.55.09:488][519]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2024.01.28-01.55.13:424][658]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2024.01.28-01.55.14:579][658]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.28-01.55.14:632][658]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2024.01.28-01.55.14:668][658]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2024.01.28-01.55.14:708][658]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2024.01.28-01.55.19:019][816]LogSlate: Window 'NewPaperFlipbook' being destroyed
+[2024.01.28-01.55.19:030][816]LogSlate: Window 'NewPaperFlipbook' being destroyed
+[2024.01.28-01.55.19:066][816]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-01.55.19:066][816]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-01.56.54:806][869]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Fish.BP_Fish
+[2024.01.28-01.56.54:807][869]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-01.56.54:807][869]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-01.57.04:202][248]LogSlate: Window 'BP_Fish' being destroyed
+[2024.01.28-01.57.04:219][248]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-01.57.04:219][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-01.57.05:801][337]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Worm.BP_Worm
+[2024.01.28-01.57.05:802][337]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-01.57.05:802][337]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-01.57.09:738][515]LogSlate: Window 'BP_Worm' being destroyed
+[2024.01.28-01.57.09:756][515]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-01.57.09:756][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-01.57.10:691][566]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Spawner.BP_Spawner
+[2024.01.28-01.57.10:692][566]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-01.57.10:692][566]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-01.57.25:130][ 82]LogSlate: Window 'BP_Spawner' being destroyed
+[2024.01.28-01.57.25:138][ 82]LogSlate: Window 'BP_Spawner' being destroyed
+[2024.01.28-01.57.25:143][ 82]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-01.57.25:143][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-01.58.11:952][644]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-01.58.12:031][644]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/SQ_FishDance" FILE="../../../../../Users/Scott/Documents/GitHub/SpeedBaitingGame/SpeedBaiting 5.3/Content/Sequences/SQ_FishDance.uasset" SILENT=true
+[2024.01.28-01.58.12:036][644]LogSavePackage: Moving output files for package: /Game/Sequences/SQ_FishDance
+[2024.01.28-01.58.12:038][644]LogSavePackage: Moving '../../../../../Users/Scott/Documents/GitHub/SpeedBaitingGame/SpeedBaiting 5.3/Saved/SQ_FishDanceF531450148999E69EC5028A4F5C12B75.tmp' to '../../../../../Users/Scott/Documents/GitHub/SpeedBaitingGame/SpeedBaiting 5.3/Content/Sequences/SQ_FishDance.uasset'
+[2024.01.28-01.58.12:051][644]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 6.01 sec)
+[2024.01.28-01.58.12:054][644]AssetCheck: New page: Asset Save: SQ_FishDance
+[2024.01.28-01.58.12:055][644]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/Sequences/SQ_FishDance.SQ_FishDance
+[2024.01.28-01.58.13:906][747]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-01.58.14:057][747]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2024.01.28-01.58.14:072][747]LogSavePackage: Moving output files for package: /Game/Maps/Map_GuppyfishLevel
+[2024.01.28-01.58.14:075][747]LogSavePackage: Moving '../../../../../Users/Scott/Documents/GitHub/SpeedBaitingGame/SpeedBaiting 5.3/Saved/Map_GuppyfishLevelC87EBD7A4EA70B2E455FB6B2EC062911.tmp' to '../../../../../Users/Scott/Documents/GitHub/SpeedBaitingGame/SpeedBaiting 5.3/Content/Maps/Map_GuppyfishLevel.umap'
+[2024.01.28-01.58.14:088][747]LogFileHelpers: Saving map 'Map_GuppyfishLevel' took 0.097
+[2024.01.28-01.58.14:103][747]LogFileHelpers: InternalPromptForCheckoutAndSave took 197 ms (total: 6.21 sec)
+[2024.01.28-01.58.14:105][747]AssetCheck: New page: Asset Save: Map_GuppyfishLevel
+[2024.01.28-01.58.14:105][747]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Map_GuppyfishLevel.Map_GuppyfishLevel
+[2024.01.28-01.59.32:067][753]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.28-01.59.32:077][753]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.28-01.59.32:077][753]PIE: New page: PIE session: Map_GuppyfishLevel (Jan 27, 2024, 9:59:32 AM)
+[2024.01.28-01.59.32:077][753]LogPlayLevel: Display: Creating online subsystem for client :Context_65
+[2024.01.28-01.59.32:082][753]LogOnline: OSS: Created online subsystem instance for: :Context_65
+[2024.01.28-01.59.32:110][754]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_GuppyfishLevel
+[2024.01.28-01.59.32:113][754]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002866s)
+[2024.01.28-01.59.32:113][754]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_GuppyfishLevel.Map_GuppyfishLevel to /Game/Maps/UEDPIE_0_Map_GuppyfishLevel.Map_GuppyfishLevel (0.002941s)
+[2024.01.28-01.59.32:139][754]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2024.01.28-01.59.32:143][754]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-01.59.32:143][754]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-01.59.32:144][754]LogAIModule: Creating AISystem for world Map_GuppyfishLevel
+[2024.01.28-01.59.32:145][754]LogPlayLevel: PIE: World Init took: (0.001811s)
+[2024.01.28-01.59.32:145][754]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2024.01.28-01.59.32:145][754]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.28-01.59.32:145][754]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.28-01.59.32:145][754]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.28-01.59.32:145][754]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.28-01.59.32:145][754]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.28-01.59.32:145][754]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.28-01.59.32:145][754]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.28-01.59.32:145][754]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.28-01.59.32:146][754]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.28-01.59.32:146][754]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.28-01.59.32:146][754]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.28-01.59.32:150][754]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.28-01.59.32:196][754]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2024.01.28-01.59.32:196][754]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.28-01.59.32:196][754]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.28-01.59.32:196][754]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.28-01.59.32:197][754]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=44
+[2024.01.28-01.59.32:197][754]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=44
+[2024.01.28-01.59.32:200][754]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=44
+[2024.01.28-01.59.32:200][754]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=44
+[2024.01.28-01.59.32:200][754]LogInit: FAudioDevice initialized with ID 44.
+[2024.01.28-01.59.32:200][754]LogAudio: Display: Audio Device (ID: 44) registered with world 'Map_GuppyfishLevel'.
+[2024.01.28-01.59.32:200][754]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 44
+[2024.01.28-01.59.32:204][754]LogLoad: Game class is 'GM_SpeedBaiting_C'
+[2024.01.28-01.59.32:205][754]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_GuppyfishLevel.Map_GuppyfishLevel up for play (max tick rate 60) at 2024.01.27-17.59.32
+[2024.01.28-01.59.32:205][754]LogWorld: Bringing up level for play took: 0.001103
+[2024.01.28-01.59.32:208][754]PIE: Server logged in
+[2024.01.28-01.59.32:209][754]PIE: Play in editor total start time 0.133 seconds.
+[2024.01.28-01.59.35:640][955]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-01.59.35:640][955]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_GuppyfishLevel
+[2024.01.28-01.59.35:640][955]LogWorld: UWorld::CleanupWorld for Map_GuppyfishLevel, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-01.59.35:640][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-01.59.35:644][955]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.28-01.59.35:648][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-01.59.35:669][955]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-01.59.35:669][955]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 44
+[2024.01.28-01.59.35:669][955]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2024.01.28-01.59.35:673][955]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2024.01.28-01.59.35:684][955]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2024.01.28-01.59.35:748][956]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2024.01.28-02.00.00:708][449]LogViewport: Scene viewport resized to 1088x434, mode Windowed.
+[2024.01.28-02.00.00:731][450]LogViewport: Scene viewport resized to 1088x471, mode Windowed.
+[2024.01.28-02.00.00:759][451]LogViewport: Scene viewport resized to 1088x515, mode Windowed.
+[2024.01.28-02.00.00:790][452]LogViewport: Scene viewport resized to 1088x560, mode Windowed.
+[2024.01.28-02.00.00:827][453]LogViewport: Scene viewport resized to 1088x583, mode Windowed.
+[2024.01.28-02.00.00:857][454]LogViewport: Scene viewport resized to 1088x597, mode Windowed.
+[2024.01.28-02.00.00:886][455]LogViewport: Scene viewport resized to 1088x605, mode Windowed.
+[2024.01.28-02.00.00:931][457]LogViewport: Scene viewport resized to 1088x611, mode Windowed.
+[2024.01.28-02.00.00:958][458]LogViewport: Scene viewport resized to 1088x629, mode Windowed.
+[2024.01.28-02.00.00:987][459]LogViewport: Scene viewport resized to 1088x662, mode Windowed.
+[2024.01.28-02.00.01:016][460]LogViewport: Scene viewport resized to 1088x683, mode Windowed.
+[2024.01.28-02.00.01:043][461]LogViewport: Scene viewport resized to 1088x694, mode Windowed.
+[2024.01.28-02.00.01:089][462]LogViewport: Scene viewport resized to 1088x698, mode Windowed.
+[2024.01.28-02.00.01:128][463]LogViewport: Scene viewport resized to 1088x699, mode Windowed.
+[2024.01.28-02.00.01:174][464]LogViewport: Scene viewport resized to 1088x706, mode Windowed.
+[2024.01.28-02.00.01:198][465]LogViewport: Scene viewport resized to 1088x712, mode Windowed.
+[2024.01.28-02.00.01:244][466]LogViewport: Scene viewport resized to 1088x738, mode Windowed.
+[2024.01.28-02.00.01:289][467]LogViewport: Scene viewport resized to 1088x752, mode Windowed.
+[2024.01.28-02.00.01:337][468]LogViewport: Scene viewport resized to 1088x753, mode Windowed.
+[2024.01.28-02.00.01:405][470]LogViewport: Scene viewport resized to 1088x755, mode Windowed.
+[2024.01.28-02.00.04:769][670]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.28-02.00.04:779][670]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.28-02.00.04:779][670]PIE: New page: PIE session: Map_GuppyfishLevel (Jan 27, 2024, 10:00:04 AM)
+[2024.01.28-02.00.04:780][670]LogPlayLevel: Display: Creating online subsystem for client :Context_66
+[2024.01.28-02.00.04:783][670]LogOnline: OSS: Created online subsystem instance for: :Context_66
+[2024.01.28-02.00.04:812][671]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_GuppyfishLevel
+[2024.01.28-02.00.04:815][671]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002997s)
+[2024.01.28-02.00.04:815][671]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_GuppyfishLevel.Map_GuppyfishLevel to /Game/Maps/UEDPIE_0_Map_GuppyfishLevel.Map_GuppyfishLevel (0.003065s)
+[2024.01.28-02.00.04:844][671]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2024.01.28-02.00.04:848][671]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-02.00.04:848][671]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-02.00.04:848][671]LogAIModule: Creating AISystem for world Map_GuppyfishLevel
+[2024.01.28-02.00.04:849][671]LogPlayLevel: PIE: World Init took: (0.001477s)
+[2024.01.28-02.00.04:849][671]LogAudio: Display: Creating Audio Device:                 Id: 45, Scope: Unique, Realtime: True
+[2024.01.28-02.00.04:849][671]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.28-02.00.04:849][671]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.28-02.00.04:849][671]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.28-02.00.04:849][671]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.28-02.00.04:849][671]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.28-02.00.04:849][671]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.28-02.00.04:849][671]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.28-02.00.04:849][671]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.28-02.00.04:850][671]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.28-02.00.04:850][671]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.28-02.00.04:850][671]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.28-02.00.04:853][671]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.28-02.00.04:903][671]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2024.01.28-02.00.04:903][671]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.28-02.00.04:903][671]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.28-02.00.04:903][671]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.28-02.00.04:904][671]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=45
+[2024.01.28-02.00.04:904][671]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=45
+[2024.01.28-02.00.04:907][671]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=45
+[2024.01.28-02.00.04:907][671]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=45
+[2024.01.28-02.00.04:907][671]LogInit: FAudioDevice initialized with ID 45.
+[2024.01.28-02.00.04:907][671]LogAudio: Display: Audio Device (ID: 45) registered with world 'Map_GuppyfishLevel'.
+[2024.01.28-02.00.04:907][671]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 45
+[2024.01.28-02.00.04:910][671]LogLoad: Game class is 'GM_SpeedBaiting_C'
+[2024.01.28-02.00.04:911][671]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_GuppyfishLevel.Map_GuppyfishLevel up for play (max tick rate 60) at 2024.01.27-18.00.04
+[2024.01.28-02.00.04:912][671]LogWorld: Bringing up level for play took: 0.000807
+[2024.01.28-02.00.04:914][671]PIE: Server logged in
+[2024.01.28-02.00.04:915][671]PIE: Play in editor total start time 0.136 seconds.
+[2024.01.28-02.00.11:220][ 40]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-02.00.11:220][ 40]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_GuppyfishLevel
+[2024.01.28-02.00.11:220][ 40]LogWorld: UWorld::CleanupWorld for Map_GuppyfishLevel, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-02.00.11:220][ 40]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-02.00.11:225][ 40]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.28-02.00.11:230][ 40]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-02.00.11:249][ 40]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-02.00.11:249][ 40]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 45
+[2024.01.28-02.00.11:249][ 40]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45
+[2024.01.28-02.00.11:252][ 40]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45
+[2024.01.28-02.00.11:262][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2024.01.28-02.00.11:328][ 41]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2024.01.28-02.08.24:201][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.01.28-02.08.24:205][861]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Map_GuppyfishLevel' took 0.023
+[2024.01.28-02.08.24:205][861]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/CBP_PlayerInput] ([2] browsable assets)...
+[2024.01.28-02.08.24:205][861]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/CBP_PlayerInput]
+[2024.01.28-02.08.24:210][861]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/CBP_PlayerInput_Auto5
+[2024.01.28-02.08.24:210][861]LogSavePackage: Moving '../../../../../Users/Scott/Documents/GitHub/SpeedBaitingGame/SpeedBaiting 5.3/Saved/CBP_PlayerInput_Auto56DF3F69B40F756249B5C449A375AF47A.tmp' to '../../../../../Users/Scott/Documents/GitHub/SpeedBaitingGame/SpeedBaiting 5.3/Saved/Autosaves/Game/Blueprints/CBP_PlayerInput_Auto5.uasset'
+[2024.01.28-02.08.24:212][861]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Images/WORM] ([1] browsable assets)...
+[2024.01.28-02.08.24:212][861]OBJ SavePackage: Finished generating thumbnails for package [/Game/Images/WORM]
+[2024.01.28-02.08.24:221][861]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Images/WORM_Auto5
+[2024.01.28-02.08.24:221][861]LogSavePackage: Moving '../../../../../Users/Scott/Documents/GitHub/SpeedBaitingGame/SpeedBaiting 5.3/Saved/WORM_Auto5561231244616F5923011F78CF5C5AB08.tmp' to '../../../../../Users/Scott/Documents/GitHub/SpeedBaitingGame/SpeedBaiting 5.3/Saved/Autosaves/Game/Images/WORM_Auto5.uasset'
+[2024.01.28-02.08.24:267][861]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Images/WORM_Sprite] ([1] browsable assets)...
+[2024.01.28-02.08.24:272][861]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/Images/WORM_Sprite.WORM_Sprite]
+[2024.01.28-02.08.24:272][861]OBJ SavePackage: Finished generating thumbnails for package [/Game/Images/WORM_Sprite]
+[2024.01.28-02.08.24:274][861]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Images/WORM_Sprite_Auto5
+[2024.01.28-02.08.24:274][861]LogSavePackage: Moving '../../../../../Users/Scott/Documents/GitHub/SpeedBaitingGame/SpeedBaiting 5.3/Saved/WORM_Sprite_Auto512095E8A4BBEF8DA27602C905CF114A1.tmp' to '../../../../../Users/Scott/Documents/GitHub/SpeedBaitingGame/SpeedBaiting 5.3/Saved/Autosaves/Game/Images/WORM_Sprite_Auto5.uasset'
+[2024.01.28-02.08.24:276][861]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Images/NewPaperFlipbook] ([1] browsable assets)...
+[2024.01.28-02.08.24:280][861]OBJ SavePackage:     Rendered thumbnail for [PaperFlipbook /Game/Images/NewPaperFlipbook.NewPaperFlipbook]
+[2024.01.28-02.08.24:280][861]OBJ SavePackage: Finished generating thumbnails for package [/Game/Images/NewPaperFlipbook]
+[2024.01.28-02.08.24:282][861]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Images/NewPaperFlipbook_Auto5
+[2024.01.28-02.08.24:282][861]LogSavePackage: Moving '../../../../../Users/Scott/Documents/GitHub/SpeedBaitingGame/SpeedBaiting 5.3/Saved/NewPaperFlipbook_Auto541554F8844806E18D0F20481E6B2BBA8.tmp' to '../../../../../Users/Scott/Documents/GitHub/SpeedBaitingGame/SpeedBaiting 5.3/Saved/Autosaves/Game/Images/NewPaperFlipbook_Auto5.uasset'
+[2024.01.28-02.08.24:284][861]LogFileHelpers: Auto-saving content packages took 0.079
