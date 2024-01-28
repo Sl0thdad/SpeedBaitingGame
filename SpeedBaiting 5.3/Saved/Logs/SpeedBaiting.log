@@ -2472,3 +2472,1402 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2024.01.28-01.02.28:596][842]LogFileHelpers: InternalPromptForCheckoutAndSave took 153 ms (total: 2.44 sec)
 [2024.01.28-01.02.28:600][842]AssetCheck: New page: Asset Save: BP_Spawner
 [2024.01.28-01.02.28:600][842]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Spawner.BP_Spawner
+[2024.01.28-01.07.29:805][439]BlueprintLog: New page: Compile BP_Spawner
+[2024.01.28-01.07.29:863][439]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2024.01.28-01.07.38:237][755]BlueprintLog: New page: Compile BP_Spawner
+[2024.01.28-01.07.38:242][755]LogClass: Warning: Type mismatch in Map of BP_Spawner_C - Previous (IntProperty) Current(ArrayProperty) for package:  FObjectReader
+[2024.01.28-01.07.38:243][755]LogBlueprint: Warning: [AssetLog] C:\Users\Scott\Documents\GitHub\SpeedBaitingGame\SpeedBaiting 5.3\Content\Blueprints\BP_Spawner.uasset: [Compiler] Can't parse default value '0' for  . Property: Map.
+[2024.01.28-01.07.38:295][755]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2024.01.28-01.08.04:145][714]BlueprintLog: New page: Compile BP_Spawner
+[2024.01.28-01.08.04:203][714]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2024.01.28-01.09.23:982][912]BlueprintLog: New page: Compile BP_Spawner
+[2024.01.28-01.09.24:040][912]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2024.01.28-01.10.42:116][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2024.01.28-01.10.42:135][ 87]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Map_GuppyfishLevel_Auto3
+[2024.01.28-01.10.42:138][ 87]LogSavePackage: Moving '../../../../../Users/Scott/Documents/GitHub/SpeedBaitingGame/SpeedBaiting 5.3/Saved/Map_GuppyfishLevel_Auto361AD81EE4C28E48C59E47497E7DC4E80.tmp' to '../../../../../Users/Scott/Documents/GitHub/SpeedBaitingGame/SpeedBaiting 5.3/Saved/Autosaves/Game/Maps/Map_GuppyfishLevel_Auto3.umap'
+[2024.01.28-01.10.42:143][ 87]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../Users/Scott/Documents/GitHub/SpeedBaitingGame/SpeedBaiting 5.3/Saved/Autosaves/Game/Maps/Map_GuppyfishLevel_Auto3.umap is in the /Temp path, will not scan.
+[2024.01.28-01.10.42:144][ 87]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Map_GuppyfishLevel' took 0.065
+[2024.01.28-01.10.42:144][ 87]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.065
+[2024.01.28-01.10.42:145][ 87]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Spawner] ([2] browsable assets)...
+[2024.01.28-01.10.42:145][ 87]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Spawner]
+[2024.01.28-01.10.42:161][ 87]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Spawner_Auto3
+[2024.01.28-01.10.42:162][ 87]LogSavePackage: Moving '../../../../../Users/Scott/Documents/GitHub/SpeedBaitingGame/SpeedBaiting 5.3/Saved/BP_Spawner_Auto3B588E3174A99355D09D95E8E95BEDDAB.tmp' to '../../../../../Users/Scott/Documents/GitHub/SpeedBaitingGame/SpeedBaiting 5.3/Saved/Autosaves/Game/Blueprints/BP_Spawner_Auto3.uasset'
+[2024.01.28-01.10.42:165][ 87]LogFileHelpers: Auto-saving content packages took 0.021
+[2024.01.28-01.11.28:087][922]LogEditorTransaction: Undo Delete current selection
+[2024.01.28-01.17.06:177][ 72]LogEditorTransaction: Undo Create Pin Link
+[2024.01.28-01.17.15:854][353]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-01.17.16:016][353]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Spawner" FILE="../../../../../Users/Scott/Documents/GitHub/SpeedBaitingGame/SpeedBaiting 5.3/Content/Blueprints/BP_Spawner.uasset" SILENT=true
+[2024.01.28-01.17.16:036][353]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Spawner
+[2024.01.28-01.17.16:039][353]LogSavePackage: Moving '../../../../../Users/Scott/Documents/GitHub/SpeedBaitingGame/SpeedBaiting 5.3/Saved/BP_Spawner6C8033994F8F0F33B3CA118ECC756124.tmp' to '../../../../../Users/Scott/Documents/GitHub/SpeedBaitingGame/SpeedBaiting 5.3/Content/Blueprints/BP_Spawner.uasset'
+[2024.01.28-01.17.16:059][353]LogFileHelpers: InternalPromptForCheckoutAndSave took 205 ms (total: 2.64 sec)
+[2024.01.28-01.17.16:065][353]AssetCheck: New page: Asset Save: BP_Spawner
+[2024.01.28-01.17.16:065][353]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Spawner.BP_Spawner
+[2024.01.28-01.17.17:153][384]BlueprintLog: New page: Compile BP_Spawner
+[2024.01.28-01.17.17:226][384]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2024.01.28-01.17.50:445][432]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-01.17.50:574][432]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Spawner" FILE="../../../../../Users/Scott/Documents/GitHub/SpeedBaitingGame/SpeedBaiting 5.3/Content/Blueprints/BP_Spawner.uasset" SILENT=true
+[2024.01.28-01.17.50:596][432]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Spawner
+[2024.01.28-01.17.50:598][432]LogSavePackage: Moving '../../../../../Users/Scott/Documents/GitHub/SpeedBaitingGame/SpeedBaiting 5.3/Saved/BP_SpawnerEE1F6BC44A9AE5DE3576CAB72AA643DC.tmp' to '../../../../../Users/Scott/Documents/GitHub/SpeedBaitingGame/SpeedBaiting 5.3/Content/Blueprints/BP_Spawner.uasset'
+[2024.01.28-01.17.50:623][432]LogFileHelpers: InternalPromptForCheckoutAndSave took 178 ms (total: 2.82 sec)
+[2024.01.28-01.17.50:626][432]AssetCheck: New page: Asset Save: BP_Spawner
+[2024.01.28-01.17.50:626][432]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Spawner.BP_Spawner
+[2024.01.28-01.17.53:144][546]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.28-01.17.53:159][546]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.01.28-01.17.53:161][546]LogPlayLevel: [PlayLevel] Compiling BP_Spawner before play...
+[2024.01.28-01.17.53:263][546]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2024.01.28-01.17.53:268][546]LogPlayLevel: PlayLevel: Blueprint regeneration took 108 ms (1 blueprints)
+[2024.01.28-01.17.53:268][546]PIE: New page: PIE session: Map_GuppyfishLevel (Jan 27, 2024, 9:17:53 AM)
+[2024.01.28-01.17.53:268][546]LogPlayLevel: Display: Creating online subsystem for client :Context_31
+[2024.01.28-01.17.53:272][546]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2024.01.28-01.17.53:301][547]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_GuppyfishLevel
+[2024.01.28-01.17.53:304][547]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002938s)
+[2024.01.28-01.17.53:304][547]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_GuppyfishLevel.Map_GuppyfishLevel to /Game/Maps/UEDPIE_0_Map_GuppyfishLevel.Map_GuppyfishLevel (0.003015s)
+[2024.01.28-01.17.53:328][547]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2024.01.28-01.17.53:330][547]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-01.17.53:330][547]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-01.17.53:331][547]LogAIModule: Creating AISystem for world Map_GuppyfishLevel
+[2024.01.28-01.17.53:332][547]LogPlayLevel: PIE: World Init took: (0.002332s)
+[2024.01.28-01.17.53:332][547]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2024.01.28-01.17.53:332][547]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.28-01.17.53:332][547]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.28-01.17.53:332][547]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.28-01.17.53:332][547]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.28-01.17.53:332][547]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.28-01.17.53:332][547]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.28-01.17.53:332][547]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.28-01.17.53:333][547]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.28-01.17.53:333][547]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.28-01.17.53:333][547]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.28-01.17.53:333][547]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.28-01.17.53:337][547]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.28-01.17.53:398][547]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2024.01.28-01.17.53:399][547]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.28-01.17.53:399][547]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.28-01.17.53:399][547]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.28-01.17.53:400][547]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2024.01.28-01.17.53:400][547]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2024.01.28-01.17.53:403][547]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2024.01.28-01.17.53:403][547]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2024.01.28-01.17.53:404][547]LogInit: FAudioDevice initialized with ID 19.
+[2024.01.28-01.17.53:404][547]LogAudio: Display: Audio Device (ID: 19) registered with world 'Map_GuppyfishLevel'.
+[2024.01.28-01.17.53:404][547]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2024.01.28-01.17.53:408][547]LogLoad: Game class is 'GM_SpeedBaiting_C'
+[2024.01.28-01.17.53:410][547]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_GuppyfishLevel.Map_GuppyfishLevel up for play (max tick rate 60) at 2024.01.27-17.17.53
+[2024.01.28-01.17.53:410][547]LogWorld: Bringing up level for play took: 0.001331
+[2024.01.28-01.17.53:414][547]PIE: Server logged in
+[2024.01.28-01.17.53:416][547]PIE: Play in editor total start time 0.261 seconds.
+[2024.01.28-01.18.01:380][972]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-01.18.01:380][972]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_GuppyfishLevel
+[2024.01.28-01.18.01:381][972]LogWorld: UWorld::CleanupWorld for Map_GuppyfishLevel, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-01.18.01:381][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-01.18.01:397][972]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.28-01.18.01:403][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-01.18.01:429][972]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-01.18.01:430][972]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2024.01.28-01.18.01:430][972]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.01.28-01.18.01:433][972]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.01.28-01.18.01:446][972]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2024.01.28-01.18.01:553][973]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2024.01.28-01.18.02:462][ 14]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-01.18.02:677][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2024.01.28-01.18.02:697][ 14]LogSavePackage: Moving output files for package: /Game/Maps/Map_GuppyfishLevel
+[2024.01.28-01.18.02:700][ 14]LogSavePackage: Moving '../../../../../Users/Scott/Documents/GitHub/SpeedBaitingGame/SpeedBaiting 5.3/Saved/Map_GuppyfishLevel6913D0E14478CC18F54A908D6848DBC3.tmp' to '../../../../../Users/Scott/Documents/GitHub/SpeedBaitingGame/SpeedBaiting 5.3/Content/Maps/Map_GuppyfishLevel.umap'
+[2024.01.28-01.18.02:717][ 14]LogFileHelpers: Saving map 'Map_GuppyfishLevel' took 0.130
+[2024.01.28-01.18.02:733][ 14]LogFileHelpers: InternalPromptForCheckoutAndSave took 270 ms (total: 3.09 sec)
+[2024.01.28-01.18.02:736][ 14]AssetCheck: New page: Asset Save: Map_GuppyfishLevel
+[2024.01.28-01.18.02:736][ 14]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Map_GuppyfishLevel.Map_GuppyfishLevel
+[2024.01.28-01.18.11:755][290]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.28-01.18.11:776][290]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.28-01.18.11:776][290]PIE: New page: PIE session: Map_GuppyfishLevel (Jan 27, 2024, 9:18:11 AM)
+[2024.01.28-01.18.11:776][290]LogPlayLevel: Display: Creating online subsystem for client :Context_32
+[2024.01.28-01.18.11:780][290]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2024.01.28-01.18.11:819][291]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_GuppyfishLevel
+[2024.01.28-01.18.11:823][291]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003368s)
+[2024.01.28-01.18.11:823][291]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_GuppyfishLevel.Map_GuppyfishLevel to /Game/Maps/UEDPIE_0_Map_GuppyfishLevel.Map_GuppyfishLevel (0.003444s)
+[2024.01.28-01.18.11:848][291]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2024.01.28-01.18.11:851][291]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-01.18.11:851][291]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-01.18.11:852][291]LogAIModule: Creating AISystem for world Map_GuppyfishLevel
+[2024.01.28-01.18.11:852][291]LogPlayLevel: PIE: World Init took: (0.001463s)
+[2024.01.28-01.18.11:853][291]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2024.01.28-01.18.11:853][291]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.28-01.18.11:853][291]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.28-01.18.11:853][291]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.28-01.18.11:853][291]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.28-01.18.11:853][291]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.28-01.18.11:853][291]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.28-01.18.11:853][291]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.28-01.18.11:853][291]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.28-01.18.11:854][291]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.28-01.18.11:854][291]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.28-01.18.11:854][291]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.28-01.18.11:857][291]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.28-01.18.11:920][291]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2024.01.28-01.18.11:921][291]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.28-01.18.11:921][291]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.28-01.18.11:921][291]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.28-01.18.11:921][291]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2024.01.28-01.18.11:921][291]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2024.01.28-01.18.11:925][291]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2024.01.28-01.18.11:926][291]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2024.01.28-01.18.11:926][291]LogInit: FAudioDevice initialized with ID 20.
+[2024.01.28-01.18.11:926][291]LogAudio: Display: Audio Device (ID: 20) registered with world 'Map_GuppyfishLevel'.
+[2024.01.28-01.18.11:926][291]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2024.01.28-01.18.11:939][291]LogLoad: Game class is 'GM_SpeedBaiting_C'
+[2024.01.28-01.18.11:942][291]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_GuppyfishLevel.Map_GuppyfishLevel up for play (max tick rate 60) at 2024.01.27-17.18.11
+[2024.01.28-01.18.11:943][291]LogWorld: Bringing up level for play took: 0.002789
+[2024.01.28-01.18.11:947][291]PIE: Server logged in
+[2024.01.28-01.18.11:948][291]PIE: Play in editor total start time 0.177 seconds.
+[2024.01.28-01.18.12:012][291]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2024.01.28-01.18.21:009][622]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-01.18.21:009][622]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_GuppyfishLevel
+[2024.01.28-01.18.21:010][622]LogWorld: UWorld::CleanupWorld for Map_GuppyfishLevel, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-01.18.21:010][622]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-01.18.21:042][622]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.28-01.18.21:048][622]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-01.18.21:078][622]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.28-01.18.21:078][622]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2024.01.28-01.18.21:078][622]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.01.28-01.18.21:082][622]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.01.28-01.18.21:091][622]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-01.18.21:096][622]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2024.01.28-01.18.21:349][623]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2024.01.28-01.19.24:008][700]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.28-01.19.24:028][700]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.01.28-01.19.24:031][700]LogPlayLevel: [PlayLevel] Compiling BP_Spawner before play...
+[2024.01.28-01.19.24:140][700]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2024.01.28-01.19.24:143][700]LogPlayLevel: PlayLevel: Blueprint regeneration took 115 ms (1 blueprints)
+[2024.01.28-01.19.24:143][700]PIE: New page: PIE session: Map_GuppyfishLevel (Jan 27, 2024, 9:19:24 AM)
+[2024.01.28-01.19.24:144][700]LogPlayLevel: Display: Creating online subsystem for client :Context_33
+[2024.01.28-01.19.24:148][700]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2024.01.28-01.19.24:330][701]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_GuppyfishLevel
+[2024.01.28-01.19.24:335][701]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004115s)
+[2024.01.28-01.19.24:336][701]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_GuppyfishLevel.Map_GuppyfishLevel to /Game/Maps/UEDPIE_0_Map_GuppyfishLevel.Map_GuppyfishLevel (0.004198s)
+[2024.01.28-01.19.24:369][701]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2024.01.28-01.19.24:372][701]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-01.19.24:373][701]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-01.19.24:374][701]LogAIModule: Creating AISystem for world Map_GuppyfishLevel
+[2024.01.28-01.19.24:374][701]LogPlayLevel: PIE: World Init took: (0.002251s)
+[2024.01.28-01.19.24:375][701]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2024.01.28-01.19.24:375][701]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.28-01.19.24:375][701]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.28-01.19.24:375][701]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.28-01.19.24:375][701]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.28-01.19.24:375][701]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.28-01.19.24:375][701]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.28-01.19.24:375][701]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.28-01.19.24:375][701]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.28-01.19.24:376][701]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.28-01.19.24:376][701]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.28-01.19.24:376][701]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.28-01.19.24:380][701]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.28-01.19.24:435][701]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2024.01.28-01.19.24:436][701]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.28-01.19.24:436][701]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.28-01.19.24:436][701]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.28-01.19.24:436][701]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2024.01.28-01.19.24:436][701]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2024.01.28-01.19.24:440][701]LogInit: FAudioDevice initialized with ID 21.
+[2024.01.28-01.19.24:440][701]LogAudio: Display: Audio Device (ID: 21) registered with world 'Map_GuppyfishLevel'.
+[2024.01.28-01.19.24:440][701]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2024.01.28-01.19.24:440][701]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2024.01.28-01.19.24:440][701]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2024.01.28-01.19.24:449][701]LogLoad: Game class is 'GM_SpeedBaiting_C'
+[2024.01.28-01.19.24:451][701]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_GuppyfishLevel.Map_GuppyfishLevel up for play (max tick rate 60) at 2024.01.27-17.19.24
+[2024.01.28-01.19.24:452][701]LogWorld: Bringing up level for play took: 0.001762
+[2024.01.28-01.19.24:458][701]PIE: Server logged in
+[2024.01.28-01.19.24:459][701]PIE: Play in editor total start time 0.431 seconds.
+[2024.01.28-01.19.40:340][197]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-01.19.40:340][197]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_GuppyfishLevel
+[2024.01.28-01.19.40:341][197]LogWorld: UWorld::CleanupWorld for Map_GuppyfishLevel, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-01.19.40:341][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-01.19.40:378][197]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.28-01.19.40:385][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-01.19.40:412][197]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-01.19.40:412][197]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2024.01.28-01.19.40:412][197]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.01.28-01.19.40:416][197]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.01.28-01.19.40:430][197]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2024.01.28-01.19.40:667][198]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2024.01.28-01.19.41:199][212]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.28-01.19.41:215][212]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.28-01.19.41:215][212]PIE: New page: PIE session: Map_GuppyfishLevel (Jan 27, 2024, 9:19:41 AM)
+[2024.01.28-01.19.41:215][212]LogPlayLevel: Display: Creating online subsystem for client :Context_34
+[2024.01.28-01.19.41:219][212]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2024.01.28-01.19.41:262][213]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_GuppyfishLevel
+[2024.01.28-01.19.41:266][213]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003375s)
+[2024.01.28-01.19.41:266][213]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_GuppyfishLevel.Map_GuppyfishLevel to /Game/Maps/UEDPIE_0_Map_GuppyfishLevel.Map_GuppyfishLevel (0.003450s)
+[2024.01.28-01.19.41:293][213]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2024.01.28-01.19.41:297][213]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-01.19.41:297][213]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-01.19.41:298][213]LogAIModule: Creating AISystem for world Map_GuppyfishLevel
+[2024.01.28-01.19.41:298][213]LogPlayLevel: PIE: World Init took: (0.001490s)
+[2024.01.28-01.19.41:298][213]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2024.01.28-01.19.41:298][213]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.28-01.19.41:298][213]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.28-01.19.41:298][213]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.28-01.19.41:298][213]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.28-01.19.41:298][213]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.28-01.19.41:299][213]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.28-01.19.41:299][213]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.28-01.19.41:299][213]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.28-01.19.41:299][213]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.28-01.19.41:300][213]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.28-01.19.41:300][213]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.28-01.19.41:303][213]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.28-01.19.41:359][213]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2024.01.28-01.19.41:359][213]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.28-01.19.41:359][213]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.28-01.19.41:359][213]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.28-01.19.41:360][213]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2024.01.28-01.19.41:360][213]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2024.01.28-01.19.41:363][213]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2024.01.28-01.19.41:363][213]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2024.01.28-01.19.41:363][213]LogInit: FAudioDevice initialized with ID 22.
+[2024.01.28-01.19.41:363][213]LogAudio: Display: Audio Device (ID: 22) registered with world 'Map_GuppyfishLevel'.
+[2024.01.28-01.19.41:363][213]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2024.01.28-01.19.41:379][213]LogLoad: Game class is 'GM_SpeedBaiting_C'
+[2024.01.28-01.19.41:381][213]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_GuppyfishLevel.Map_GuppyfishLevel up for play (max tick rate 60) at 2024.01.27-17.19.41
+[2024.01.28-01.19.41:382][213]LogWorld: Bringing up level for play took: 0.001966
+[2024.01.28-01.19.41:387][213]PIE: Server logged in
+[2024.01.28-01.19.41:389][213]PIE: Play in editor total start time 0.177 seconds.
+[2024.01.28-01.19.50:180][482]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-01.19.50:180][482]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_GuppyfishLevel
+[2024.01.28-01.19.50:181][482]LogWorld: UWorld::CleanupWorld for Map_GuppyfishLevel, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-01.19.50:181][482]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-01.19.50:215][482]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.28-01.19.50:221][482]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-01.19.50:241][482]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-01.19.50:242][482]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2024.01.28-01.19.50:242][482]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.01.28-01.19.50:244][482]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.01.28-01.19.50:256][482]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2024.01.28-01.19.50:481][483]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2024.01.28-01.19.52:220][560]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.28-01.19.52:234][560]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.28-01.19.52:234][560]PIE: New page: PIE session: Map_GuppyfishLevel (Jan 27, 2024, 9:19:52 AM)
+[2024.01.28-01.19.52:234][560]LogPlayLevel: Display: Creating online subsystem for client :Context_35
+[2024.01.28-01.19.52:238][560]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2024.01.28-01.19.52:273][561]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_GuppyfishLevel
+[2024.01.28-01.19.52:277][561]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003890s)
+[2024.01.28-01.19.52:277][561]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_GuppyfishLevel.Map_GuppyfishLevel to /Game/Maps/UEDPIE_0_Map_GuppyfishLevel.Map_GuppyfishLevel (0.003977s)
+[2024.01.28-01.19.52:314][561]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2024.01.28-01.19.52:319][561]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-01.19.52:319][561]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-01.19.52:320][561]LogAIModule: Creating AISystem for world Map_GuppyfishLevel
+[2024.01.28-01.19.52:320][561]LogPlayLevel: PIE: World Init took: (0.002040s)
+[2024.01.28-01.19.52:321][561]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2024.01.28-01.19.52:321][561]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.28-01.19.52:321][561]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.28-01.19.52:321][561]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.28-01.19.52:321][561]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.28-01.19.52:321][561]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.28-01.19.52:321][561]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.28-01.19.52:321][561]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.28-01.19.52:321][561]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.28-01.19.52:322][561]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.28-01.19.52:322][561]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.28-01.19.52:322][561]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.28-01.19.52:326][561]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.28-01.19.52:402][561]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2024.01.28-01.19.52:402][561]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.28-01.19.52:402][561]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.28-01.19.52:402][561]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.28-01.19.52:403][561]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2024.01.28-01.19.52:403][561]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2024.01.28-01.19.52:407][561]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2024.01.28-01.19.52:407][561]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2024.01.28-01.19.52:407][561]LogInit: FAudioDevice initialized with ID 23.
+[2024.01.28-01.19.52:407][561]LogAudio: Display: Audio Device (ID: 23) registered with world 'Map_GuppyfishLevel'.
+[2024.01.28-01.19.52:407][561]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2024.01.28-01.19.52:411][561]LogLoad: Game class is 'GM_SpeedBaiting_C'
+[2024.01.28-01.19.52:412][561]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_GuppyfishLevel.Map_GuppyfishLevel up for play (max tick rate 60) at 2024.01.27-17.19.52
+[2024.01.28-01.19.52:413][561]LogWorld: Bringing up level for play took: 0.001044
+[2024.01.28-01.19.52:416][561]PIE: Server logged in
+[2024.01.28-01.19.52:417][561]PIE: Play in editor total start time 0.184 seconds.
+[2024.01.28-01.20.00:280][ 12]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-01.20.00:280][ 12]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_GuppyfishLevel
+[2024.01.28-01.20.00:280][ 12]LogWorld: UWorld::CleanupWorld for Map_GuppyfishLevel, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-01.20.00:281][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-01.20.00:314][ 12]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.28-01.20.00:320][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-01.20.00:342][ 12]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-01.20.00:342][ 12]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2024.01.28-01.20.00:342][ 12]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.01.28-01.20.00:345][ 12]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.01.28-01.20.00:359][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2024.01.28-01.20.00:456][ 13]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2024.01.28-01.20.10:582][279]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.28-01.20.10:595][279]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.28-01.20.10:595][279]PIE: New page: PIE session: Map_GuppyfishLevel (Jan 27, 2024, 9:20:10 AM)
+[2024.01.28-01.20.10:595][279]LogPlayLevel: Display: Creating online subsystem for client :Context_36
+[2024.01.28-01.20.10:600][279]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2024.01.28-01.20.10:634][280]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_GuppyfishLevel
+[2024.01.28-01.20.10:638][280]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003436s)
+[2024.01.28-01.20.10:638][280]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_GuppyfishLevel.Map_GuppyfishLevel to /Game/Maps/UEDPIE_0_Map_GuppyfishLevel.Map_GuppyfishLevel (0.003515s)
+[2024.01.28-01.20.10:663][280]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2024.01.28-01.20.10:666][280]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-01.20.10:666][280]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-01.20.10:667][280]LogAIModule: Creating AISystem for world Map_GuppyfishLevel
+[2024.01.28-01.20.10:667][280]LogPlayLevel: PIE: World Init took: (0.001453s)
+[2024.01.28-01.20.10:667][280]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2024.01.28-01.20.10:667][280]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.28-01.20.10:667][280]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.28-01.20.10:667][280]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.28-01.20.10:667][280]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.28-01.20.10:667][280]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.28-01.20.10:667][280]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.28-01.20.10:667][280]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.28-01.20.10:667][280]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.28-01.20.10:668][280]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.28-01.20.10:668][280]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.28-01.20.10:668][280]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.28-01.20.10:671][280]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.28-01.20.10:728][280]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2024.01.28-01.20.10:728][280]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.28-01.20.10:728][280]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.28-01.20.10:728][280]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.28-01.20.10:730][280]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2024.01.28-01.20.10:730][280]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2024.01.28-01.20.10:733][280]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2024.01.28-01.20.10:733][280]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2024.01.28-01.20.10:733][280]LogInit: FAudioDevice initialized with ID 24.
+[2024.01.28-01.20.10:733][280]LogAudio: Display: Audio Device (ID: 24) registered with world 'Map_GuppyfishLevel'.
+[2024.01.28-01.20.10:733][280]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2024.01.28-01.20.10:737][280]LogLoad: Game class is 'GM_SpeedBaiting_C'
+[2024.01.28-01.20.10:739][280]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_GuppyfishLevel.Map_GuppyfishLevel up for play (max tick rate 60) at 2024.01.27-17.20.10
+[2024.01.28-01.20.10:739][280]LogWorld: Bringing up level for play took: 0.001258
+[2024.01.28-01.20.10:742][280]PIE: Server logged in
+[2024.01.28-01.20.10:744][280]PIE: Play in editor total start time 0.149 seconds.
+[2024.01.28-01.20.28:400][790]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-01.20.28:400][790]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_GuppyfishLevel
+[2024.01.28-01.20.28:401][790]LogWorld: UWorld::CleanupWorld for Map_GuppyfishLevel, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-01.20.28:401][790]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-01.20.28:435][790]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.28-01.20.28:441][790]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-01.20.28:466][790]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-01.20.28:466][790]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2024.01.28-01.20.28:466][790]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.01.28-01.20.28:469][790]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.01.28-01.20.28:483][790]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2024.01.28-01.20.28:729][791]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2024.01.28-01.20.39:079][132]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-01.20.39:207][132]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Spawner" FILE="../../../../../Users/Scott/Documents/GitHub/SpeedBaitingGame/SpeedBaiting 5.3/Content/Blueprints/BP_Spawner.uasset" SILENT=true
+[2024.01.28-01.20.39:242][132]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Spawner
+[2024.01.28-01.20.39:245][132]LogSavePackage: Moving '../../../../../Users/Scott/Documents/GitHub/SpeedBaitingGame/SpeedBaiting 5.3/Saved/BP_Spawner7BD1241E4C26950ECAD5A3BE3B60502C.tmp' to '../../../../../Users/Scott/Documents/GitHub/SpeedBaitingGame/SpeedBaiting 5.3/Content/Blueprints/BP_Spawner.uasset'
+[2024.01.28-01.20.39:263][132]LogFileHelpers: InternalPromptForCheckoutAndSave took 184 ms (total: 3.28 sec)
+[2024.01.28-01.20.39:266][132]AssetCheck: New page: Asset Save: BP_Spawner
+[2024.01.28-01.20.39:266][132]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Spawner.BP_Spawner
+[2024.01.28-01.20.43:309][235]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.28-01.20.43:321][235]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.01.28-01.20.43:322][235]LogPlayLevel: [PlayLevel] Compiling BP_Spawner before play...
+[2024.01.28-01.20.43:412][235]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2024.01.28-01.20.43:416][235]LogPlayLevel: PlayLevel: Blueprint regeneration took 94 ms (1 blueprints)
+[2024.01.28-01.20.43:416][235]PIE: New page: PIE session: Map_GuppyfishLevel (Jan 27, 2024, 9:20:43 AM)
+[2024.01.28-01.20.43:416][235]LogPlayLevel: Display: Creating online subsystem for client :Context_37
+[2024.01.28-01.20.43:420][235]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2024.01.28-01.20.43:449][236]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_GuppyfishLevel
+[2024.01.28-01.20.43:452][236]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002848s)
+[2024.01.28-01.20.43:452][236]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_GuppyfishLevel.Map_GuppyfishLevel to /Game/Maps/UEDPIE_0_Map_GuppyfishLevel.Map_GuppyfishLevel (0.002932s)
+[2024.01.28-01.20.43:475][236]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2024.01.28-01.20.43:477][236]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-01.20.43:477][236]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-01.20.43:478][236]LogAIModule: Creating AISystem for world Map_GuppyfishLevel
+[2024.01.28-01.20.43:478][236]LogPlayLevel: PIE: World Init took: (0.001603s)
+[2024.01.28-01.20.43:479][236]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2024.01.28-01.20.43:479][236]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.28-01.20.43:479][236]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.28-01.20.43:479][236]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.28-01.20.43:479][236]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.28-01.20.43:479][236]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.28-01.20.43:479][236]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.28-01.20.43:479][236]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.28-01.20.43:479][236]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.28-01.20.43:480][236]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.28-01.20.43:480][236]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.28-01.20.43:480][236]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.28-01.20.43:483][236]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.28-01.20.43:539][236]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2024.01.28-01.20.43:539][236]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.28-01.20.43:540][236]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.28-01.20.43:540][236]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.28-01.20.43:540][236]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2024.01.28-01.20.43:541][236]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2024.01.28-01.20.43:544][236]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2024.01.28-01.20.43:544][236]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2024.01.28-01.20.43:544][236]LogInit: FAudioDevice initialized with ID 25.
+[2024.01.28-01.20.43:544][236]LogAudio: Display: Audio Device (ID: 25) registered with world 'Map_GuppyfishLevel'.
+[2024.01.28-01.20.43:544][236]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2024.01.28-01.20.43:548][236]LogLoad: Game class is 'GM_SpeedBaiting_C'
+[2024.01.28-01.20.43:550][236]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_GuppyfishLevel.Map_GuppyfishLevel up for play (max tick rate 60) at 2024.01.27-17.20.43
+[2024.01.28-01.20.43:550][236]LogWorld: Bringing up level for play took: 0.001155
+[2024.01.28-01.20.43:553][236]PIE: Server logged in
+[2024.01.28-01.20.43:554][236]PIE: Play in editor total start time 0.233 seconds.
+[2024.01.28-01.20.54:701][694]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-01.20.54:702][694]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_GuppyfishLevel
+[2024.01.28-01.20.54:702][694]LogWorld: UWorld::CleanupWorld for Map_GuppyfishLevel, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-01.20.54:703][694]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-01.20.54:747][694]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.28-01.20.54:754][694]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-01.20.54:778][694]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-01.20.54:779][694]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2024.01.28-01.20.54:779][694]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2024.01.28-01.20.54:782][694]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2024.01.28-01.20.54:794][694]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2024.01.28-01.20.54:900][695]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2024.01.28-01.20.55:478][721]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.28-01.20.55:494][721]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.28-01.20.55:494][721]PIE: New page: PIE session: Map_GuppyfishLevel (Jan 27, 2024, 9:20:55 AM)
+[2024.01.28-01.20.55:494][721]LogPlayLevel: Display: Creating online subsystem for client :Context_38
+[2024.01.28-01.20.55:497][721]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2024.01.28-01.20.55:529][722]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_GuppyfishLevel
+[2024.01.28-01.20.55:533][722]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003088s)
+[2024.01.28-01.20.55:533][722]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_GuppyfishLevel.Map_GuppyfishLevel to /Game/Maps/UEDPIE_0_Map_GuppyfishLevel.Map_GuppyfishLevel (0.003208s)
+[2024.01.28-01.20.55:561][722]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2024.01.28-01.20.55:564][722]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-01.20.55:564][722]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-01.20.55:564][722]LogAIModule: Creating AISystem for world Map_GuppyfishLevel
+[2024.01.28-01.20.55:565][722]LogPlayLevel: PIE: World Init took: (0.001438s)
+[2024.01.28-01.20.55:565][722]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2024.01.28-01.20.55:565][722]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.28-01.20.55:565][722]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.28-01.20.55:565][722]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.28-01.20.55:565][722]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.28-01.20.55:565][722]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.28-01.20.55:565][722]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.28-01.20.55:565][722]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.28-01.20.55:565][722]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.28-01.20.55:566][722]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.28-01.20.55:566][722]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.28-01.20.55:566][722]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.28-01.20.55:569][722]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.28-01.20.55:625][722]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2024.01.28-01.20.55:626][722]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.28-01.20.55:627][722]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.28-01.20.55:627][722]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.28-01.20.55:628][722]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2024.01.28-01.20.55:628][722]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2024.01.28-01.20.55:631][722]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2024.01.28-01.20.55:632][722]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2024.01.28-01.20.55:632][722]LogInit: FAudioDevice initialized with ID 26.
+[2024.01.28-01.20.55:632][722]LogAudio: Display: Audio Device (ID: 26) registered with world 'Map_GuppyfishLevel'.
+[2024.01.28-01.20.55:632][722]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2024.01.28-01.20.55:636][722]LogLoad: Game class is 'GM_SpeedBaiting_C'
+[2024.01.28-01.20.55:638][722]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_GuppyfishLevel.Map_GuppyfishLevel up for play (max tick rate 60) at 2024.01.27-17.20.55
+[2024.01.28-01.20.55:638][722]LogWorld: Bringing up level for play took: 0.001381
+[2024.01.28-01.20.55:641][722]PIE: Server logged in
+[2024.01.28-01.20.55:645][722]PIE: Play in editor total start time 0.154 seconds.
+[2024.01.28-01.21.15:970][892]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-01.21.15:970][892]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_GuppyfishLevel
+[2024.01.28-01.21.15:970][892]LogWorld: UWorld::CleanupWorld for Map_GuppyfishLevel, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-01.21.15:970][892]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-01.21.15:980][892]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.28-01.21.15:989][892]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-01.21.16:018][892]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-01.21.16:019][892]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2024.01.28-01.21.16:019][892]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2024.01.28-01.21.16:023][892]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2024.01.28-01.21.16:038][892]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2024.01.28-01.21.16:174][893]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2024.01.28-01.21.27:062][270]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-01.21.27:191][270]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Spawner" FILE="../../../../../Users/Scott/Documents/GitHub/SpeedBaitingGame/SpeedBaiting 5.3/Content/Blueprints/BP_Spawner.uasset" SILENT=true
+[2024.01.28-01.21.27:239][270]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Spawner
+[2024.01.28-01.21.27:244][270]LogSavePackage: Moving '../../../../../Users/Scott/Documents/GitHub/SpeedBaitingGame/SpeedBaiting 5.3/Saved/BP_Spawner16D2423E4FC058EC5CE5F1AD1A7F7EBC.tmp' to '../../../../../Users/Scott/Documents/GitHub/SpeedBaitingGame/SpeedBaiting 5.3/Content/Blueprints/BP_Spawner.uasset'
+[2024.01.28-01.21.27:276][270]LogFileHelpers: InternalPromptForCheckoutAndSave took 214 ms (total: 3.49 sec)
+[2024.01.28-01.21.27:281][270]AssetCheck: New page: Asset Save: BP_Spawner
+[2024.01.28-01.21.27:281][270]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Spawner.BP_Spawner
+[2024.01.28-01.22.02:048][701]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.28-01.22.02:060][701]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.28-01.22.02:060][701]PIE: New page: PIE session: Map_GuppyfishLevel (Jan 27, 2024, 9:22:02 AM)
+[2024.01.28-01.22.02:060][701]LogPlayLevel: Display: Creating online subsystem for client :Context_39
+[2024.01.28-01.22.02:065][701]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2024.01.28-01.22.02:095][702]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_GuppyfishLevel
+[2024.01.28-01.22.02:098][702]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003572s)
+[2024.01.28-01.22.02:098][702]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_GuppyfishLevel.Map_GuppyfishLevel to /Game/Maps/UEDPIE_0_Map_GuppyfishLevel.Map_GuppyfishLevel (0.003662s)
+[2024.01.28-01.22.02:126][702]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2024.01.28-01.22.02:130][702]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-01.22.02:130][702]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-01.22.02:131][702]LogAIModule: Creating AISystem for world Map_GuppyfishLevel
+[2024.01.28-01.22.02:132][702]LogPlayLevel: PIE: World Init took: (0.001696s)
+[2024.01.28-01.22.02:132][702]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2024.01.28-01.22.02:132][702]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.28-01.22.02:132][702]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.28-01.22.02:132][702]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.28-01.22.02:132][702]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.28-01.22.02:132][702]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.28-01.22.02:132][702]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.28-01.22.02:132][702]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.28-01.22.02:132][702]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.28-01.22.02:133][702]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.28-01.22.02:133][702]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.28-01.22.02:133][702]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.28-01.22.02:136][702]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.28-01.22.02:190][702]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2024.01.28-01.22.02:191][702]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.28-01.22.02:191][702]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.28-01.22.02:191][702]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.28-01.22.02:192][702]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2024.01.28-01.22.02:192][702]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2024.01.28-01.22.02:195][702]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2024.01.28-01.22.02:195][702]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2024.01.28-01.22.02:195][702]LogInit: FAudioDevice initialized with ID 27.
+[2024.01.28-01.22.02:195][702]LogAudio: Display: Audio Device (ID: 27) registered with world 'Map_GuppyfishLevel'.
+[2024.01.28-01.22.02:195][702]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 27
+[2024.01.28-01.22.02:200][702]LogLoad: Game class is 'GM_SpeedBaiting_C'
+[2024.01.28-01.22.02:201][702]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_GuppyfishLevel.Map_GuppyfishLevel up for play (max tick rate 60) at 2024.01.27-17.22.02
+[2024.01.28-01.22.02:202][702]LogWorld: Bringing up level for play took: 0.001345
+[2024.01.28-01.22.02:205][702]PIE: Server logged in
+[2024.01.28-01.22.02:206][702]PIE: Play in editor total start time 0.146 seconds.
+[2024.01.28-01.22.17:810][517]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-01.22.17:810][517]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_GuppyfishLevel
+[2024.01.28-01.22.17:811][517]LogWorld: UWorld::CleanupWorld for Map_GuppyfishLevel, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-01.22.17:811][517]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-01.22.17:856][517]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.28-01.22.17:863][517]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-01.22.17:887][517]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-01.22.17:888][517]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 27
+[2024.01.28-01.22.17:888][517]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2024.01.28-01.22.17:891][517]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2024.01.28-01.22.17:904][517]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2024.01.28-01.22.18:024][518]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2024.01.28-01.22.48:717][515]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-01.22.48:828][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Spawner" FILE="../../../../../Users/Scott/Documents/GitHub/SpeedBaitingGame/SpeedBaiting 5.3/Content/Blueprints/BP_Spawner.uasset" SILENT=true
+[2024.01.28-01.22.48:848][515]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Spawner
+[2024.01.28-01.22.48:850][515]LogSavePackage: Moving '../../../../../Users/Scott/Documents/GitHub/SpeedBaitingGame/SpeedBaiting 5.3/Saved/BP_SpawnerF960786747D47B27F62A689BC51906EF.tmp' to '../../../../../Users/Scott/Documents/GitHub/SpeedBaitingGame/SpeedBaiting 5.3/Content/Blueprints/BP_Spawner.uasset'
+[2024.01.28-01.22.48:869][515]LogFileHelpers: InternalPromptForCheckoutAndSave took 152 ms (total: 3.64 sec)
+[2024.01.28-01.22.48:872][515]AssetCheck: New page: Asset Save: BP_Spawner
+[2024.01.28-01.22.48:872][515]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Spawner.BP_Spawner
+[2024.01.28-01.22.49:304][531]BlueprintLog: New page: Compile BP_Spawner
+[2024.01.28-01.22.49:374][531]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2024.01.28-01.24.13:677][ 96]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.28-01.24.13:699][ 96]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.28-01.24.13:700][ 96]PIE: New page: PIE session: Map_GuppyfishLevel (Jan 27, 2024, 9:24:13 AM)
+[2024.01.28-01.24.13:700][ 96]LogPlayLevel: Display: Creating online subsystem for client :Context_40
+[2024.01.28-01.24.13:704][ 96]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2024.01.28-01.24.13:742][ 97]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_GuppyfishLevel
+[2024.01.28-01.24.13:745][ 97]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003403s)
+[2024.01.28-01.24.13:746][ 97]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_GuppyfishLevel.Map_GuppyfishLevel to /Game/Maps/UEDPIE_0_Map_GuppyfishLevel.Map_GuppyfishLevel (0.003480s)
+[2024.01.28-01.24.13:780][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2024.01.28-01.24.13:784][ 97]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-01.24.13:785][ 97]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-01.24.13:785][ 97]LogAIModule: Creating AISystem for world Map_GuppyfishLevel
+[2024.01.28-01.24.13:786][ 97]LogPlayLevel: PIE: World Init took: (0.001800s)
+[2024.01.28-01.24.13:786][ 97]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2024.01.28-01.24.13:786][ 97]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.28-01.24.13:786][ 97]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.28-01.24.13:786][ 97]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.28-01.24.13:786][ 97]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.28-01.24.13:786][ 97]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.28-01.24.13:786][ 97]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.28-01.24.13:786][ 97]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.28-01.24.13:786][ 97]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.28-01.24.13:787][ 97]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.28-01.24.13:787][ 97]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.28-01.24.13:787][ 97]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.28-01.24.13:791][ 97]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.28-01.24.13:850][ 97]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2024.01.28-01.24.13:851][ 97]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.28-01.24.13:851][ 97]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.28-01.24.13:851][ 97]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.28-01.24.13:853][ 97]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2024.01.28-01.24.13:854][ 97]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2024.01.28-01.24.13:857][ 97]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2024.01.28-01.24.13:857][ 97]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2024.01.28-01.24.13:857][ 97]LogInit: FAudioDevice initialized with ID 28.
+[2024.01.28-01.24.13:857][ 97]LogAudio: Display: Audio Device (ID: 28) registered with world 'Map_GuppyfishLevel'.
+[2024.01.28-01.24.13:857][ 97]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 28
+[2024.01.28-01.24.13:861][ 97]LogLoad: Game class is 'GM_SpeedBaiting_C'
+[2024.01.28-01.24.13:863][ 97]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_GuppyfishLevel.Map_GuppyfishLevel up for play (max tick rate 60) at 2024.01.27-17.24.13
+[2024.01.28-01.24.13:863][ 97]LogWorld: Bringing up level for play took: 0.001082
+[2024.01.28-01.24.13:866][ 97]PIE: Server logged in
+[2024.01.28-01.24.13:868][ 97]PIE: Play in editor total start time 0.173 seconds.
+[2024.01.28-01.24.29:577][920]LogDerivedDataCache: C:/Users/Scott/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.299 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 939 files in 1452 folders with total size 12 MiB.
+[2024.01.28-01.24.43:471][681]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-01.24.43:471][681]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_GuppyfishLevel
+[2024.01.28-01.24.43:472][681]LogWorld: UWorld::CleanupWorld for Map_GuppyfishLevel, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-01.24.43:472][681]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-01.24.43:517][681]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.28-01.24.43:523][681]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-01.24.43:543][681]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-01.24.43:544][681]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 28
+[2024.01.28-01.24.43:544][681]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2024.01.28-01.24.43:546][681]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2024.01.28-01.24.43:561][681]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2024.01.28-01.24.43:688][682]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2024.01.28-01.25.12:140][268]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.28-01.25.12:156][268]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.28-01.25.12:156][268]PIE: New page: PIE session: Map_GuppyfishLevel (Jan 27, 2024, 9:25:12 AM)
+[2024.01.28-01.25.12:156][268]LogPlayLevel: Display: Creating online subsystem for client :Context_41
+[2024.01.28-01.25.12:161][268]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2024.01.28-01.25.12:194][269]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_GuppyfishLevel
+[2024.01.28-01.25.12:198][269]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003589s)
+[2024.01.28-01.25.12:198][269]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_GuppyfishLevel.Map_GuppyfishLevel to /Game/Maps/UEDPIE_0_Map_GuppyfishLevel.Map_GuppyfishLevel (0.003670s)
+[2024.01.28-01.25.12:220][269]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2024.01.28-01.25.12:223][269]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-01.25.12:223][269]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-01.25.12:224][269]LogAIModule: Creating AISystem for world Map_GuppyfishLevel
+[2024.01.28-01.25.12:225][269]LogPlayLevel: PIE: World Init took: (0.002179s)
+[2024.01.28-01.25.12:225][269]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2024.01.28-01.25.12:225][269]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.28-01.25.12:225][269]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.28-01.25.12:225][269]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.28-01.25.12:226][269]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.28-01.25.12:226][269]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.28-01.25.12:226][269]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.28-01.25.12:226][269]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.28-01.25.12:226][269]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.28-01.25.12:228][269]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.28-01.25.12:228][269]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.28-01.25.12:228][269]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.28-01.25.12:231][269]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.28-01.25.12:285][269]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2024.01.28-01.25.12:286][269]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.28-01.25.12:286][269]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.28-01.25.12:286][269]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.28-01.25.12:286][269]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2024.01.28-01.25.12:286][269]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2024.01.28-01.25.12:290][269]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2024.01.28-01.25.12:290][269]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2024.01.28-01.25.12:290][269]LogInit: FAudioDevice initialized with ID 29.
+[2024.01.28-01.25.12:290][269]LogAudio: Display: Audio Device (ID: 29) registered with world 'Map_GuppyfishLevel'.
+[2024.01.28-01.25.12:290][269]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 29
+[2024.01.28-01.25.12:295][269]LogLoad: Game class is 'GM_SpeedBaiting_C'
+[2024.01.28-01.25.12:297][269]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_GuppyfishLevel.Map_GuppyfishLevel up for play (max tick rate 60) at 2024.01.27-17.25.12
+[2024.01.28-01.25.12:297][269]LogWorld: Bringing up level for play took: 0.001354
+[2024.01.28-01.25.12:301][269]PIE: Server logged in
+[2024.01.28-01.25.12:302][269]PIE: Play in editor total start time 0.149 seconds.
+[2024.01.28-01.25.14:450][387]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-01.25.14:450][387]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_GuppyfishLevel
+[2024.01.28-01.25.14:450][387]LogWorld: UWorld::CleanupWorld for Map_GuppyfishLevel, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-01.25.14:451][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-01.25.14:461][387]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.28-01.25.14:468][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-01.25.14:491][387]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-01.25.14:492][387]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 29
+[2024.01.28-01.25.14:492][387]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2024.01.28-01.25.14:495][387]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2024.01.28-01.25.14:507][387]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2024.01.28-01.25.14:615][388]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2024.01.28-01.25.33:086][468]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.28-01.25.33:101][468]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.28-01.25.33:101][468]PIE: New page: PIE session: Map_GuppyfishLevel (Jan 27, 2024, 9:25:33 AM)
+[2024.01.28-01.25.33:101][468]LogPlayLevel: Display: Creating online subsystem for client :Context_42
+[2024.01.28-01.25.33:105][468]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2024.01.28-01.25.33:149][469]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_GuppyfishLevel
+[2024.01.28-01.25.33:153][469]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003711s)
+[2024.01.28-01.25.33:153][469]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_GuppyfishLevel.Map_GuppyfishLevel to /Game/Maps/UEDPIE_0_Map_GuppyfishLevel.Map_GuppyfishLevel (0.003807s)
+[2024.01.28-01.25.33:190][469]LogUObjectHash: Compacting FUObjectHashTables data took   4.88ms
+[2024.01.28-01.25.33:194][469]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-01.25.33:195][469]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-01.25.33:196][469]LogAIModule: Creating AISystem for world Map_GuppyfishLevel
+[2024.01.28-01.25.33:196][469]LogPlayLevel: PIE: World Init took: (0.002072s)
+[2024.01.28-01.25.33:196][469]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2024.01.28-01.25.33:196][469]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.28-01.25.33:196][469]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.28-01.25.33:196][469]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.28-01.25.33:197][469]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.28-01.25.33:197][469]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.28-01.25.33:197][469]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.28-01.25.33:197][469]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.28-01.25.33:197][469]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.28-01.25.33:198][469]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.28-01.25.33:198][469]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.28-01.25.33:198][469]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.28-01.25.33:201][469]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.28-01.25.33:269][469]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2024.01.28-01.25.33:270][469]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.28-01.25.33:270][469]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.28-01.25.33:270][469]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.28-01.25.33:271][469]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2024.01.28-01.25.33:271][469]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2024.01.28-01.25.33:274][469]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2024.01.28-01.25.33:274][469]LogInit: FAudioDevice initialized with ID 30.
+[2024.01.28-01.25.33:274][469]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2024.01.28-01.25.33:274][469]LogAudio: Display: Audio Device (ID: 30) registered with world 'Map_GuppyfishLevel'.
+[2024.01.28-01.25.33:275][469]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 30
+[2024.01.28-01.25.33:279][469]LogLoad: Game class is 'GM_SpeedBaiting_C'
+[2024.01.28-01.25.33:280][469]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_GuppyfishLevel.Map_GuppyfishLevel up for play (max tick rate 60) at 2024.01.27-17.25.33
+[2024.01.28-01.25.33:280][469]LogWorld: Bringing up level for play took: 0.001049
+[2024.01.28-01.25.33:284][469]PIE: Server logged in
+[2024.01.28-01.25.33:285][469]PIE: Play in editor total start time 0.186 seconds.
+[2024.01.28-01.25.38:890][782]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-01.25.38:890][782]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_GuppyfishLevel
+[2024.01.28-01.25.38:890][782]LogWorld: UWorld::CleanupWorld for Map_GuppyfishLevel, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-01.25.38:890][782]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-01.25.38:900][782]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.28-01.25.38:906][782]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-01.25.38:936][782]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-01.25.38:936][782]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 30
+[2024.01.28-01.25.38:937][782]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2024.01.28-01.25.38:940][782]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2024.01.28-01.25.38:952][782]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2024.01.28-01.25.39:089][783]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2024.01.28-01.29.21:208][874]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-01.29.21:409][874]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2024.01.28-01.29.21:423][874]LogSavePackage: Moving output files for package: /Game/Maps/Map_GuppyfishLevel
+[2024.01.28-01.29.21:425][874]LogSavePackage: Moving '../../../../../Users/Scott/Documents/GitHub/SpeedBaitingGame/SpeedBaiting 5.3/Saved/Map_GuppyfishLevel2AC27D7E4100AFAD8F68E8939EAC2486.tmp' to '../../../../../Users/Scott/Documents/GitHub/SpeedBaitingGame/SpeedBaiting 5.3/Content/Maps/Map_GuppyfishLevel.umap'
+[2024.01.28-01.29.21:438][874]LogFileHelpers: Saving map 'Map_GuppyfishLevel' took 0.107
+[2024.01.28-01.29.21:454][874]LogFileHelpers: InternalPromptForCheckoutAndSave took 246 ms (total: 3.89 sec)
+[2024.01.28-01.29.21:458][874]AssetCheck: New page: Asset Save: Map_GuppyfishLevel
+[2024.01.28-01.29.21:458][874]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Map_GuppyfishLevel.Map_GuppyfishLevel
+[2024.01.28-01.30.31:849][801]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.28-01.30.31:864][801]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.28-01.30.31:864][801]PIE: New page: PIE session: Map_GuppyfishLevel (Jan 27, 2024, 9:30:31 AM)
+[2024.01.28-01.30.31:864][801]LogPlayLevel: Display: Creating online subsystem for client :Context_43
+[2024.01.28-01.30.31:869][801]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2024.01.28-01.30.31:902][802]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_GuppyfishLevel
+[2024.01.28-01.30.31:905][802]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002988s)
+[2024.01.28-01.30.31:906][802]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_GuppyfishLevel.Map_GuppyfishLevel to /Game/Maps/UEDPIE_0_Map_GuppyfishLevel.Map_GuppyfishLevel (0.003066s)
+[2024.01.28-01.30.31:935][802]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2024.01.28-01.30.31:937][802]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-01.30.31:937][802]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-01.30.31:938][802]LogAIModule: Creating AISystem for world Map_GuppyfishLevel
+[2024.01.28-01.30.31:939][802]LogPlayLevel: PIE: World Init took: (0.001720s)
+[2024.01.28-01.30.31:939][802]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2024.01.28-01.30.31:939][802]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.28-01.30.31:939][802]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.28-01.30.31:939][802]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.28-01.30.31:939][802]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.28-01.30.31:939][802]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.28-01.30.31:939][802]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.28-01.30.31:939][802]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.28-01.30.31:939][802]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.28-01.30.31:940][802]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.28-01.30.31:940][802]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.28-01.30.31:940][802]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.28-01.30.31:943][802]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.28-01.30.31:998][802]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2024.01.28-01.30.31:999][802]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.28-01.30.31:999][802]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.28-01.30.31:999][802]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.28-01.30.32:002][802]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2024.01.28-01.30.32:002][802]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=31
+[2024.01.28-01.30.32:005][802]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2024.01.28-01.30.32:005][802]LogInit: FAudioDevice initialized with ID 31.
+[2024.01.28-01.30.32:005][802]LogAudio: Display: Audio Device (ID: 31) registered with world 'Map_GuppyfishLevel'.
+[2024.01.28-01.30.32:005][802]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2024.01.28-01.30.32:005][802]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 31
+[2024.01.28-01.30.32:009][802]LogLoad: Game class is 'GM_SpeedBaiting_C'
+[2024.01.28-01.30.32:011][802]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_GuppyfishLevel.Map_GuppyfishLevel up for play (max tick rate 60) at 2024.01.27-17.30.32
+[2024.01.28-01.30.32:012][802]LogWorld: Bringing up level for play took: 0.001342
+[2024.01.28-01.30.32:016][802]PIE: Server logged in
+[2024.01.28-01.30.32:017][802]PIE: Play in editor total start time 0.154 seconds.
+[2024.01.28-01.30.41:220][288]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-01.30.41:220][288]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_GuppyfishLevel
+[2024.01.28-01.30.41:221][288]LogWorld: UWorld::CleanupWorld for Map_GuppyfishLevel, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-01.30.41:221][288]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-01.30.41:232][288]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.28-01.30.41:238][288]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-01.30.41:266][288]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.28-01.30.41:266][288]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 31
+[2024.01.28-01.30.41:266][288]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2024.01.28-01.30.41:270][288]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2024.01.28-01.30.41:279][288]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-01.30.41:284][288]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2024.01.28-01.30.41:393][289]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2024.01.28-01.31.27:359][922]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-01.31.27:555][922]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2024.01.28-01.31.27:569][922]LogSavePackage: Moving output files for package: /Game/Maps/Map_GuppyfishLevel
+[2024.01.28-01.31.27:571][922]LogSavePackage: Moving '../../../../../Users/Scott/Documents/GitHub/SpeedBaitingGame/SpeedBaiting 5.3/Saved/Map_GuppyfishLevel573D9C5745AC9BFAA077DC835BB8DC36.tmp' to '../../../../../Users/Scott/Documents/GitHub/SpeedBaitingGame/SpeedBaiting 5.3/Content/Maps/Map_GuppyfishLevel.umap'
+[2024.01.28-01.31.27:584][922]LogFileHelpers: Saving map 'Map_GuppyfishLevel' took 0.098
+[2024.01.28-01.31.27:600][922]LogFileHelpers: InternalPromptForCheckoutAndSave took 241 ms (total: 4.13 sec)
+[2024.01.28-01.31.27:603][922]AssetCheck: New page: Asset Save: Map_GuppyfishLevel
+[2024.01.28-01.31.27:603][922]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Map_GuppyfishLevel.Map_GuppyfishLevel
+[2024.01.28-01.32.48:540][931]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-01.32.48:654][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Spawner" FILE="../../../../../Users/Scott/Documents/GitHub/SpeedBaitingGame/SpeedBaiting 5.3/Content/Blueprints/BP_Spawner.uasset" SILENT=true
+[2024.01.28-01.32.48:677][931]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Spawner
+[2024.01.28-01.32.48:680][931]LogSavePackage: Moving '../../../../../Users/Scott/Documents/GitHub/SpeedBaitingGame/SpeedBaiting 5.3/Saved/BP_SpawnerE9A0C6FC410A04595B55269E1F08EF65.tmp' to '../../../../../Users/Scott/Documents/GitHub/SpeedBaitingGame/SpeedBaiting 5.3/Content/Blueprints/BP_Spawner.uasset'
+[2024.01.28-01.32.48:698][931]LogFileHelpers: InternalPromptForCheckoutAndSave took 158 ms (total: 4.29 sec)
+[2024.01.28-01.32.48:700][931]AssetCheck: New page: Asset Save: BP_Spawner
+[2024.01.28-01.32.48:700][931]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Spawner.BP_Spawner
+[2024.01.28-01.32.51:453][ 49]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.28-01.32.51:465][ 49]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.01.28-01.32.51:466][ 49]LogPlayLevel: [PlayLevel] Compiling BP_Spawner before play...
+[2024.01.28-01.32.51:573][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2024.01.28-01.32.51:576][ 49]LogPlayLevel: PlayLevel: Blueprint regeneration took 110 ms (1 blueprints)
+[2024.01.28-01.32.51:576][ 49]PIE: New page: PIE session: Map_GuppyfishLevel (Jan 27, 2024, 9:32:51 AM)
+[2024.01.28-01.32.51:577][ 49]LogPlayLevel: Display: Creating online subsystem for client :Context_44
+[2024.01.28-01.32.51:581][ 49]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2024.01.28-01.32.51:616][ 50]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_GuppyfishLevel
+[2024.01.28-01.32.51:620][ 50]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003423s)
+[2024.01.28-01.32.51:620][ 50]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_GuppyfishLevel.Map_GuppyfishLevel to /Game/Maps/UEDPIE_0_Map_GuppyfishLevel.Map_GuppyfishLevel (0.003524s)
+[2024.01.28-01.32.51:645][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2024.01.28-01.32.51:647][ 50]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-01.32.51:647][ 50]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-01.32.51:649][ 50]LogAIModule: Creating AISystem for world Map_GuppyfishLevel
+[2024.01.28-01.32.51:649][ 50]LogPlayLevel: PIE: World Init took: (0.002336s)
+[2024.01.28-01.32.51:649][ 50]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2024.01.28-01.32.51:649][ 50]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.28-01.32.51:649][ 50]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.28-01.32.51:649][ 50]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.28-01.32.51:650][ 50]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.28-01.32.51:650][ 50]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.28-01.32.51:650][ 50]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.28-01.32.51:650][ 50]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.28-01.32.51:650][ 50]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.28-01.32.51:651][ 50]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.28-01.32.51:651][ 50]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.28-01.32.51:651][ 50]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.28-01.32.51:654][ 50]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.28-01.32.51:708][ 50]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2024.01.28-01.32.51:710][ 50]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.28-01.32.51:710][ 50]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.28-01.32.51:710][ 50]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.28-01.32.51:716][ 50]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=32
+[2024.01.28-01.32.51:716][ 50]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=32
+[2024.01.28-01.32.51:719][ 50]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=32
+[2024.01.28-01.32.51:719][ 50]LogInit: FAudioDevice initialized with ID 32.
+[2024.01.28-01.32.51:719][ 50]LogAudio: Display: Audio Device (ID: 32) registered with world 'Map_GuppyfishLevel'.
+[2024.01.28-01.32.51:719][ 50]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=32
+[2024.01.28-01.32.51:719][ 50]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 32
+[2024.01.28-01.32.51:724][ 50]LogLoad: Game class is 'GM_SpeedBaiting_C'
+[2024.01.28-01.32.51:725][ 50]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_GuppyfishLevel.Map_GuppyfishLevel up for play (max tick rate 60) at 2024.01.27-17.32.51
+[2024.01.28-01.32.51:725][ 50]LogWorld: Bringing up level for play took: 0.001100
+[2024.01.28-01.32.51:729][ 50]PIE: Server logged in
+[2024.01.28-01.32.51:730][ 50]PIE: Play in editor total start time 0.264 seconds.
+[2024.01.28-01.32.53:709][131]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-01.32.53:710][131]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_GuppyfishLevel
+[2024.01.28-01.32.53:710][131]LogWorld: UWorld::CleanupWorld for Map_GuppyfishLevel, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-01.32.53:710][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-01.32.53:728][131]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.28-01.32.53:734][131]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-01.32.53:760][131]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-01.32.53:760][131]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 32
+[2024.01.28-01.32.53:760][131]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2024.01.28-01.32.53:763][131]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2024.01.28-01.32.53:775][131]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2024.01.28-01.32.53:866][132]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2024.01.28-01.32.57:298][306]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.28-01.32.57:314][306]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.28-01.32.57:314][306]PIE: New page: PIE session: Map_GuppyfishLevel (Jan 27, 2024, 9:32:57 AM)
+[2024.01.28-01.32.57:314][306]LogPlayLevel: Display: Creating online subsystem for client :Context_45
+[2024.01.28-01.32.57:317][306]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2024.01.28-01.32.57:349][307]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_GuppyfishLevel
+[2024.01.28-01.32.57:353][307]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003030s)
+[2024.01.28-01.32.57:353][307]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_GuppyfishLevel.Map_GuppyfishLevel to /Game/Maps/UEDPIE_0_Map_GuppyfishLevel.Map_GuppyfishLevel (0.003121s)
+[2024.01.28-01.32.57:386][307]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2024.01.28-01.32.57:389][307]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-01.32.57:389][307]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-01.32.57:390][307]LogAIModule: Creating AISystem for world Map_GuppyfishLevel
+[2024.01.28-01.32.57:391][307]LogPlayLevel: PIE: World Init took: (0.001777s)
+[2024.01.28-01.32.57:391][307]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2024.01.28-01.32.57:391][307]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.28-01.32.57:391][307]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.28-01.32.57:391][307]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.28-01.32.57:391][307]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.28-01.32.57:391][307]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.28-01.32.57:391][307]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.28-01.32.57:391][307]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.28-01.32.57:391][307]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.28-01.32.57:392][307]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.28-01.32.57:392][307]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.28-01.32.57:392][307]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.28-01.32.57:396][307]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.28-01.32.57:452][307]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2024.01.28-01.32.57:453][307]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.28-01.32.57:453][307]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.28-01.32.57:453][307]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.28-01.32.57:454][307]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=33
+[2024.01.28-01.32.57:454][307]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=33
+[2024.01.28-01.32.57:457][307]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=33
+[2024.01.28-01.32.57:457][307]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=33
+[2024.01.28-01.32.57:457][307]LogInit: FAudioDevice initialized with ID 33.
+[2024.01.28-01.32.57:457][307]LogAudio: Display: Audio Device (ID: 33) registered with world 'Map_GuppyfishLevel'.
+[2024.01.28-01.32.57:457][307]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 33
+[2024.01.28-01.32.57:461][307]LogLoad: Game class is 'GM_SpeedBaiting_C'
+[2024.01.28-01.32.57:463][307]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_GuppyfishLevel.Map_GuppyfishLevel up for play (max tick rate 60) at 2024.01.27-17.32.57
+[2024.01.28-01.32.57:463][307]LogWorld: Bringing up level for play took: 0.001323
+[2024.01.28-01.32.57:466][307]PIE: Server logged in
+[2024.01.28-01.32.57:468][307]PIE: Play in editor total start time 0.158 seconds.
+[2024.01.28-01.33.11:879][154]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-01.33.11:879][154]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_GuppyfishLevel
+[2024.01.28-01.33.11:880][154]LogWorld: UWorld::CleanupWorld for Map_GuppyfishLevel, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-01.33.11:880][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-01.33.11:889][154]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.28-01.33.11:896][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-01.33.11:924][154]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-01.33.11:924][154]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 33
+[2024.01.28-01.33.11:924][154]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2024.01.28-01.33.11:927][154]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2024.01.28-01.33.11:939][154]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2024.01.28-01.33.12:024][155]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2024.01.28-01.35.49:687][546]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-01.35.49:877][546]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Spawner" FILE="../../../../../Users/Scott/Documents/GitHub/SpeedBaitingGame/SpeedBaiting 5.3/Content/Blueprints/BP_Spawner.uasset" SILENT=true
+[2024.01.28-01.35.49:897][546]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Spawner
+[2024.01.28-01.35.49:900][546]LogSavePackage: Moving '../../../../../Users/Scott/Documents/GitHub/SpeedBaitingGame/SpeedBaiting 5.3/Saved/BP_Spawner9EE966E54955C989EEB2D7A81BEFE188.tmp' to '../../../../../Users/Scott/Documents/GitHub/SpeedBaitingGame/SpeedBaiting 5.3/Content/Blueprints/BP_Spawner.uasset'
+[2024.01.28-01.35.49:919][546]LogFileHelpers: InternalPromptForCheckoutAndSave took 232 ms (total: 4.52 sec)
+[2024.01.28-01.35.49:922][546]AssetCheck: New page: Asset Save: BP_Spawner
+[2024.01.28-01.35.49:922][546]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Spawner.BP_Spawner
+[2024.01.28-01.35.51:832][635]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-01.35.52:050][635]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2024.01.28-01.35.52:065][635]LogSavePackage: Moving output files for package: /Game/Maps/Map_GuppyfishLevel
+[2024.01.28-01.35.52:067][635]LogSavePackage: Moving '../../../../../Users/Scott/Documents/GitHub/SpeedBaitingGame/SpeedBaiting 5.3/Saved/Map_GuppyfishLevel86E1CD8E4BD4D952735EC5945D28F77D.tmp' to '../../../../../Users/Scott/Documents/GitHub/SpeedBaitingGame/SpeedBaiting 5.3/Content/Maps/Map_GuppyfishLevel.umap'
+[2024.01.28-01.35.52:080][635]LogFileHelpers: Saving map 'Map_GuppyfishLevel' took 0.098
+[2024.01.28-01.35.52:094][635]LogFileHelpers: InternalPromptForCheckoutAndSave took 261 ms (total: 4.78 sec)
+[2024.01.28-01.35.52:096][635]AssetCheck: New page: Asset Save: Map_GuppyfishLevel
+[2024.01.28-01.35.52:097][635]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Map_GuppyfishLevel.Map_GuppyfishLevel
+[2024.01.28-01.35.52:529][660]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.28-01.35.52:543][660]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.01.28-01.35.52:545][660]LogPlayLevel: [PlayLevel] Compiling BP_Spawner before play...
+[2024.01.28-01.35.52:662][660]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2024.01.28-01.35.52:666][660]LogPlayLevel: PlayLevel: Blueprint regeneration took 122 ms (1 blueprints)
+[2024.01.28-01.35.52:666][660]PIE: New page: PIE session: Map_GuppyfishLevel (Jan 27, 2024, 9:35:52 AM)
+[2024.01.28-01.35.52:666][660]LogPlayLevel: Display: Creating online subsystem for client :Context_46
+[2024.01.28-01.35.52:671][660]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2024.01.28-01.35.52:720][661]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_GuppyfishLevel
+[2024.01.28-01.35.52:724][661]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004316s)
+[2024.01.28-01.35.52:724][661]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_GuppyfishLevel.Map_GuppyfishLevel to /Game/Maps/UEDPIE_0_Map_GuppyfishLevel.Map_GuppyfishLevel (0.004402s)
+[2024.01.28-01.35.52:760][661]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2024.01.28-01.35.52:762][661]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-01.35.52:762][661]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-01.35.52:763][661]LogAIModule: Creating AISystem for world Map_GuppyfishLevel
+[2024.01.28-01.35.52:764][661]LogPlayLevel: PIE: World Init took: (0.002110s)
+[2024.01.28-01.35.52:764][661]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2024.01.28-01.35.52:764][661]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.28-01.35.52:764][661]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.28-01.35.52:764][661]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.28-01.35.52:765][661]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.28-01.35.52:765][661]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.28-01.35.52:765][661]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.28-01.35.52:765][661]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.28-01.35.52:765][661]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.28-01.35.52:766][661]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.28-01.35.52:766][661]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.28-01.35.52:766][661]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.28-01.35.52:769][661]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.28-01.35.52:825][661]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2024.01.28-01.35.52:825][661]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.28-01.35.52:825][661]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.28-01.35.52:825][661]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.28-01.35.52:827][661]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2024.01.28-01.35.52:827][661]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=34
+[2024.01.28-01.35.52:830][661]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2024.01.28-01.35.52:830][661]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2024.01.28-01.35.52:830][661]LogInit: FAudioDevice initialized with ID 34.
+[2024.01.28-01.35.52:830][661]LogAudio: Display: Audio Device (ID: 34) registered with world 'Map_GuppyfishLevel'.
+[2024.01.28-01.35.52:830][661]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 34
+[2024.01.28-01.35.52:835][661]LogLoad: Game class is 'GM_SpeedBaiting_C'
+[2024.01.28-01.35.52:836][661]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_GuppyfishLevel.Map_GuppyfishLevel up for play (max tick rate 60) at 2024.01.27-17.35.52
+[2024.01.28-01.35.52:837][661]LogWorld: Bringing up level for play took: 0.001272
+[2024.01.28-01.35.52:840][661]PIE: Server logged in
+[2024.01.28-01.35.52:842][661]PIE: Play in editor total start time 0.299 seconds.
+[2024.01.28-01.36.08:730][364]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-01.36.08:730][364]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_GuppyfishLevel
+[2024.01.28-01.36.08:730][364]LogWorld: UWorld::CleanupWorld for Map_GuppyfishLevel, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-01.36.08:731][364]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-01.36.08:740][364]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.28-01.36.08:746][364]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-01.36.08:768][364]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-01.36.08:768][364]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 34
+[2024.01.28-01.36.08:769][364]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2024.01.28-01.36.08:772][364]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2024.01.28-01.36.08:788][364]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2024.01.28-01.36.08:893][365]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2024.01.28-01.36.09:682][399]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-01.36.09:884][399]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2024.01.28-01.36.09:899][399]LogSavePackage: Moving output files for package: /Game/Maps/Map_GuppyfishLevel
+[2024.01.28-01.36.09:902][399]LogSavePackage: Moving '../../../../../Users/Scott/Documents/GitHub/SpeedBaitingGame/SpeedBaiting 5.3/Saved/Map_GuppyfishLevel7681779F4321AE30542BB799CE6EC8D7.tmp' to '../../../../../Users/Scott/Documents/GitHub/SpeedBaitingGame/SpeedBaiting 5.3/Content/Maps/Map_GuppyfishLevel.umap'
+[2024.01.28-01.36.09:915][399]LogFileHelpers: Saving map 'Map_GuppyfishLevel' took 0.103
+[2024.01.28-01.36.09:930][399]LogFileHelpers: InternalPromptForCheckoutAndSave took 248 ms (total: 5.03 sec)
+[2024.01.28-01.36.09:933][399]AssetCheck: New page: Asset Save: Map_GuppyfishLevel
+[2024.01.28-01.36.09:933][399]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Map_GuppyfishLevel.Map_GuppyfishLevel
+[2024.01.28-01.36.57:500][745]LogSlate: Window 'Change Variable Type' being destroyed
+[2024.01.28-01.37.03:448][914]LogSlate: Window 'Find in Blueprints' being destroyed
+[2024.01.28-01.37.03:465][914]LogSlate: Window 'Find in Blueprints' being destroyed
+[2024.01.28-01.37.04:410][942]LogEditorTransaction: Undo Change Parameter Type
+[2024.01.28-01.37.04:758][943]LogEditorTransaction: Undo Rename Variable
+[2024.01.28-01.37.05:287][949]LogEditorTransaction: Undo Add Variable
+[2024.01.28-01.37.05:906][963]LogEditorTransaction: Undo Rename Variable
+[2024.01.28-01.37.06:578][977]LogEditorTransaction: Undo Add Variable
+[2024.01.28-01.37.07:322][994]LogEditorTransaction: Undo Paste clipboard contents
+[2024.01.28-01.37.08:232][ 27]LogEditorTransaction: Undo Delete current selection
+[2024.01.28-01.37.10:654][119]LogEditorTransaction: Redo Delete current selection
+[2024.01.28-01.37.59:239][793]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-01.37.59:418][793]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Spawner_Left" FILE="../../../../../Users/Scott/Documents/GitHub/SpeedBaitingGame/SpeedBaiting 5.3/Content/Blueprints/BP_Spawner_Left.uasset" SILENT=true
+[2024.01.28-01.37.59:439][793]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Spawner_Left
+[2024.01.28-01.37.59:441][793]LogSavePackage: Moving '../../../../../Users/Scott/Documents/GitHub/SpeedBaitingGame/SpeedBaiting 5.3/Saved/BP_Spawner_LeftFFC23E884423836DCEFD6097D7212360.tmp' to '../../../../../Users/Scott/Documents/GitHub/SpeedBaitingGame/SpeedBaiting 5.3/Content/Blueprints/BP_Spawner_Left.uasset'
+[2024.01.28-01.37.59:459][793]LogFileHelpers: InternalPromptForCheckoutAndSave took 220 ms (total: 5.25 sec)
+[2024.01.28-01.37.59:463][793]AssetCheck: New page: Asset Save: BP_Spawner_Left
+[2024.01.28-01.37.59:463][793]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Spawner_Left.BP_Spawner_Left
+[2024.01.28-01.38.01:738][886]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.28-01.38.01:752][886]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.01.28-01.38.01:753][886]LogPlayLevel: [PlayLevel] Compiling BP_Spawner_Left before play...
+[2024.01.28-01.38.01:851][886]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2024.01.28-01.38.01:857][886]LogPlayLevel: PlayLevel: Blueprint regeneration took 105 ms (1 blueprints)
+[2024.01.28-01.38.01:858][886]PIE: New page: PIE session: Map_GuppyfishLevel (Jan 27, 2024, 9:38:01 AM)
+[2024.01.28-01.38.01:858][886]LogPlayLevel: Display: Creating online subsystem for client :Context_47
+[2024.01.28-01.38.01:862][886]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2024.01.28-01.38.01:897][887]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_GuppyfishLevel
+[2024.01.28-01.38.01:901][887]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003722s)
+[2024.01.28-01.38.01:901][887]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_GuppyfishLevel.Map_GuppyfishLevel to /Game/Maps/UEDPIE_0_Map_GuppyfishLevel.Map_GuppyfishLevel (0.003854s)
+[2024.01.28-01.38.01:927][887]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2024.01.28-01.38.01:930][887]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-01.38.01:930][887]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-01.38.01:931][887]LogAIModule: Creating AISystem for world Map_GuppyfishLevel
+[2024.01.28-01.38.01:931][887]LogPlayLevel: PIE: World Init took: (0.001764s)
+[2024.01.28-01.38.01:931][887]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2024.01.28-01.38.01:931][887]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.28-01.38.01:931][887]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.28-01.38.01:931][887]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.28-01.38.01:931][887]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.28-01.38.01:932][887]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.28-01.38.01:932][887]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.28-01.38.01:932][887]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.28-01.38.01:932][887]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.28-01.38.01:933][887]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.28-01.38.01:933][887]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.28-01.38.01:933][887]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.28-01.38.01:936][887]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.28-01.38.01:998][887]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2024.01.28-01.38.01:999][887]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.28-01.38.01:999][887]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.28-01.38.01:999][887]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.28-01.38.02:000][887]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=35
+[2024.01.28-01.38.02:000][887]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=35
+[2024.01.28-01.38.02:003][887]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=35
+[2024.01.28-01.38.02:003][887]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=35
+[2024.01.28-01.38.02:003][887]LogInit: FAudioDevice initialized with ID 35.
+[2024.01.28-01.38.02:003][887]LogAudio: Display: Audio Device (ID: 35) registered with world 'Map_GuppyfishLevel'.
+[2024.01.28-01.38.02:003][887]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 35
+[2024.01.28-01.38.02:007][887]LogLoad: Game class is 'GM_SpeedBaiting_C'
+[2024.01.28-01.38.02:009][887]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_GuppyfishLevel.Map_GuppyfishLevel up for play (max tick rate 60) at 2024.01.27-17.38.02
+[2024.01.28-01.38.02:010][887]LogWorld: Bringing up level for play took: 0.001453
+[2024.01.28-01.38.02:013][887]LogScript: Warning: Attempted to access index 0 from array Map of length 0!
+	BP_Spawner_Left_C /Game/Maps/UEDPIE_0_Map_GuppyfishLevel.Map_GuppyfishLevel:PersistentLevel.BP_Spawner_Left_C_1
+	Function /Game/Blueprints/BP_Spawner_Left.BP_Spawner_Left_C:ExecuteUbergraph_BP_Spawner_Left:02EB
+[2024.01.28-01.38.02:013][887]PIE: Error: Blueprint Runtime Error: "Attempted to access index 0 from array Map of length 0!". Node:  Set Count Graph:  EventGraph Function:  Execute Ubergraph BP Spawner Left Blueprint:  BP_Spawner_Left
+[2024.01.28-01.38.02:014][887]PIE: Server logged in
+[2024.01.28-01.38.02:015][887]PIE: Play in editor total start time 0.264 seconds.
+[2024.01.28-01.38.02:153][889]LogScript: Warning: Attempted to access index 1 from array Map of length 0!
+	BP_Spawner_Left_C /Game/Maps/UEDPIE_0_Map_GuppyfishLevel.Map_GuppyfishLevel:PersistentLevel.BP_Spawner_Left_C_1
+	Function /Game/Blueprints/BP_Spawner_Left.BP_Spawner_Left_C:ExecuteUbergraph_BP_Spawner_Left:0291
+[2024.01.28-01.38.02:153][889]PIE: Error: Blueprint Runtime Error: "Attempted to access index 1 from array Map of length 0!". Node:  Set Count Graph:  EventGraph Function:  Execute Ubergraph BP Spawner Left Blueprint:  BP_Spawner_Left
+[2024.01.28-01.38.07:319][170]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-01.38.07:319][170]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_GuppyfishLevel
+[2024.01.28-01.38.07:320][170]LogWorld: UWorld::CleanupWorld for Map_GuppyfishLevel, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-01.38.07:320][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-01.38.07:352][170]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.28-01.38.07:359][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-01.38.07:392][170]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-01.38.07:392][170]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 35
+[2024.01.28-01.38.07:393][170]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2024.01.28-01.38.07:396][170]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2024.01.28-01.38.07:413][170]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2024.01.28-01.38.07:758][171]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2024.01.28-01.38.10:793][255]LogSlate: Window 'Message Log' being destroyed
+[2024.01.28-01.38.10:810][255]LogSlate: Window 'Message Log' being destroyed
+[2024.01.28-01.38.32:797][868]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-01.38.32:944][868]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Spawner_Left" FILE="../../../../../Users/Scott/Documents/GitHub/SpeedBaitingGame/SpeedBaiting 5.3/Content/Blueprints/BP_Spawner_Left.uasset" SILENT=true
+[2024.01.28-01.38.32:977][868]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Spawner_Left
+[2024.01.28-01.38.32:979][868]LogSavePackage: Moving '../../../../../Users/Scott/Documents/GitHub/SpeedBaitingGame/SpeedBaiting 5.3/Saved/BP_Spawner_Left48599A9D46B2FD41A996D2ABCC7FE7C4.tmp' to '../../../../../Users/Scott/Documents/GitHub/SpeedBaitingGame/SpeedBaiting 5.3/Content/Blueprints/BP_Spawner_Left.uasset'
+[2024.01.28-01.38.32:997][868]LogFileHelpers: InternalPromptForCheckoutAndSave took 199 ms (total: 5.45 sec)
+[2024.01.28-01.38.33:000][868]AssetCheck: New page: Asset Save: BP_Spawner_Left
+[2024.01.28-01.38.33:000][868]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Spawner_Left.BP_Spawner_Left
+[2024.01.28-01.39.14:764][168]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-01.39.14:880][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Spawner_Left" FILE="../../../../../Users/Scott/Documents/GitHub/SpeedBaitingGame/SpeedBaiting 5.3/Content/Blueprints/BP_Spawner_Left.uasset" SILENT=true
+[2024.01.28-01.39.14:901][168]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Spawner_Left
+[2024.01.28-01.39.14:904][168]LogSavePackage: Moving '../../../../../Users/Scott/Documents/GitHub/SpeedBaitingGame/SpeedBaiting 5.3/Saved/BP_Spawner_LeftE0E54956438FF64FE77DCE95BDA76D58.tmp' to '../../../../../Users/Scott/Documents/GitHub/SpeedBaitingGame/SpeedBaiting 5.3/Content/Blueprints/BP_Spawner_Left.uasset'
+[2024.01.28-01.39.14:924][168]LogFileHelpers: InternalPromptForCheckoutAndSave took 159 ms (total: 5.61 sec)
+[2024.01.28-01.39.14:927][168]AssetCheck: New page: Asset Save: BP_Spawner_Left
+[2024.01.28-01.39.14:927][168]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Spawner_Left.BP_Spawner_Left
+[2024.01.28-01.39.16:552][230]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.28-01.39.16:568][230]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.01.28-01.39.16:569][230]LogPlayLevel: [PlayLevel] Compiling BP_Spawner_Left before play...
+[2024.01.28-01.39.16:701][230]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2024.01.28-01.39.16:707][230]LogPlayLevel: PlayLevel: Blueprint regeneration took 138 ms (1 blueprints)
+[2024.01.28-01.39.16:707][230]PIE: New page: PIE session: Map_GuppyfishLevel (Jan 27, 2024, 9:39:16 AM)
+[2024.01.28-01.39.16:707][230]LogPlayLevel: Display: Creating online subsystem for client :Context_48
+[2024.01.28-01.39.16:711][230]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2024.01.28-01.39.16:772][231]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_GuppyfishLevel
+[2024.01.28-01.39.16:775][231]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002871s)
+[2024.01.28-01.39.16:775][231]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_GuppyfishLevel.Map_GuppyfishLevel to /Game/Maps/UEDPIE_0_Map_GuppyfishLevel.Map_GuppyfishLevel (0.002940s)
+[2024.01.28-01.39.16:801][231]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2024.01.28-01.39.16:804][231]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-01.39.16:804][231]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-01.39.16:804][231]LogAIModule: Creating AISystem for world Map_GuppyfishLevel
+[2024.01.28-01.39.16:805][231]LogPlayLevel: PIE: World Init took: (0.001679s)
+[2024.01.28-01.39.16:805][231]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2024.01.28-01.39.16:805][231]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.28-01.39.16:805][231]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.28-01.39.16:805][231]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.28-01.39.16:805][231]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.28-01.39.16:805][231]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.28-01.39.16:805][231]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.28-01.39.16:805][231]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.28-01.39.16:806][231]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.28-01.39.16:806][231]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.28-01.39.16:806][231]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.28-01.39.16:806][231]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.28-01.39.16:810][231]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.28-01.39.16:864][231]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2024.01.28-01.39.16:866][231]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.28-01.39.16:866][231]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.28-01.39.16:866][231]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.28-01.39.16:872][231]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=36
+[2024.01.28-01.39.16:872][231]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=36
+[2024.01.28-01.39.16:875][231]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=36
+[2024.01.28-01.39.16:875][231]LogInit: FAudioDevice initialized with ID 36.
+[2024.01.28-01.39.16:875][231]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=36
+[2024.01.28-01.39.16:875][231]LogAudio: Display: Audio Device (ID: 36) registered with world 'Map_GuppyfishLevel'.
+[2024.01.28-01.39.16:875][231]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 36
+[2024.01.28-01.39.16:879][231]LogLoad: Game class is 'GM_SpeedBaiting_C'
+[2024.01.28-01.39.16:880][231]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_GuppyfishLevel.Map_GuppyfishLevel up for play (max tick rate 60) at 2024.01.27-17.39.16
+[2024.01.28-01.39.16:881][231]LogWorld: Bringing up level for play took: 0.001057
+[2024.01.28-01.39.16:884][231]PIE: Server logged in
+[2024.01.28-01.39.16:885][231]PIE: Play in editor total start time 0.321 seconds.
+[2024.01.28-01.39.33:940][ 56]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-01.39.33:940][ 56]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_GuppyfishLevel
+[2024.01.28-01.39.33:940][ 56]LogWorld: UWorld::CleanupWorld for Map_GuppyfishLevel, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-01.39.33:941][ 56]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-01.39.33:990][ 56]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.28-01.39.33:997][ 56]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-01.39.34:030][ 56]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-01.39.34:030][ 56]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 36
+[2024.01.28-01.39.34:030][ 56]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2024.01.28-01.39.34:034][ 56]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2024.01.28-01.39.34:052][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2024.01.28-01.39.34:166][ 57]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2024.01.28-01.39.38:515][269]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.28-01.39.38:531][269]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.28-01.39.38:531][269]PIE: New page: PIE session: Map_GuppyfishLevel (Jan 27, 2024, 9:39:38 AM)
+[2024.01.28-01.39.38:531][269]LogPlayLevel: Display: Creating online subsystem for client :Context_49
+[2024.01.28-01.39.38:535][269]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2024.01.28-01.39.38:567][270]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_GuppyfishLevel
+[2024.01.28-01.39.38:570][270]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002827s)
+[2024.01.28-01.39.38:570][270]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_GuppyfishLevel.Map_GuppyfishLevel to /Game/Maps/UEDPIE_0_Map_GuppyfishLevel.Map_GuppyfishLevel (0.002906s)
+[2024.01.28-01.39.38:603][270]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2024.01.28-01.39.38:608][270]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-01.39.38:608][270]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-01.39.38:609][270]LogAIModule: Creating AISystem for world Map_GuppyfishLevel
+[2024.01.28-01.39.38:609][270]LogPlayLevel: PIE: World Init took: (0.001999s)
+[2024.01.28-01.39.38:609][270]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2024.01.28-01.39.38:610][270]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.28-01.39.38:610][270]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.28-01.39.38:610][270]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.28-01.39.38:610][270]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.28-01.39.38:610][270]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.28-01.39.38:610][270]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.28-01.39.38:610][270]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.28-01.39.38:610][270]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.28-01.39.38:611][270]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.28-01.39.38:611][270]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.28-01.39.38:611][270]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.28-01.39.38:615][270]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.28-01.39.38:677][270]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2024.01.28-01.39.38:678][270]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.28-01.39.38:678][270]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.28-01.39.38:678][270]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.28-01.39.38:680][270]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=37
+[2024.01.28-01.39.38:680][270]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=37
+[2024.01.28-01.39.38:683][270]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=37
+[2024.01.28-01.39.38:683][270]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=37
+[2024.01.28-01.39.38:683][270]LogInit: FAudioDevice initialized with ID 37.
+[2024.01.28-01.39.38:683][270]LogAudio: Display: Audio Device (ID: 37) registered with world 'Map_GuppyfishLevel'.
+[2024.01.28-01.39.38:683][270]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 37
+[2024.01.28-01.39.38:688][270]LogLoad: Game class is 'GM_SpeedBaiting_C'
+[2024.01.28-01.39.38:689][270]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_GuppyfishLevel.Map_GuppyfishLevel up for play (max tick rate 60) at 2024.01.27-17.39.38
+[2024.01.28-01.39.38:690][270]LogWorld: Bringing up level for play took: 0.001084
+[2024.01.28-01.39.38:693][270]PIE: Server logged in
+[2024.01.28-01.39.38:694][270]PIE: Play in editor total start time 0.166 seconds.
+[2024.01.28-01.40.14:841][ 40]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-01.40.14:842][ 40]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_GuppyfishLevel
+[2024.01.28-01.40.14:842][ 40]LogWorld: UWorld::CleanupWorld for Map_GuppyfishLevel, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-01.40.14:842][ 40]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-01.40.14:854][ 40]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.28-01.40.14:860][ 40]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-01.40.14:885][ 40]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-01.40.14:885][ 40]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 37
+[2024.01.28-01.40.14:885][ 40]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2024.01.28-01.40.14:888][ 40]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2024.01.28-01.40.14:901][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2024.01.28-01.40.15:028][ 41]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2024.01.28-01.40.24:364][515]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.28-01.40.24:380][515]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.28-01.40.24:380][515]PIE: New page: PIE session: Map_GuppyfishLevel (Jan 27, 2024, 9:40:24 AM)
+[2024.01.28-01.40.24:380][515]LogPlayLevel: Display: Creating online subsystem for client :Context_50
+[2024.01.28-01.40.24:384][515]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2024.01.28-01.40.24:414][516]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_GuppyfishLevel
+[2024.01.28-01.40.24:417][516]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003200s)
+[2024.01.28-01.40.24:417][516]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_GuppyfishLevel.Map_GuppyfishLevel to /Game/Maps/UEDPIE_0_Map_GuppyfishLevel.Map_GuppyfishLevel (0.003286s)
+[2024.01.28-01.40.24:451][516]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2024.01.28-01.40.24:456][516]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-01.40.24:456][516]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-01.40.24:457][516]LogAIModule: Creating AISystem for world Map_GuppyfishLevel
+[2024.01.28-01.40.24:458][516]LogPlayLevel: PIE: World Init took: (0.001672s)
+[2024.01.28-01.40.24:458][516]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2024.01.28-01.40.24:458][516]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.28-01.40.24:458][516]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.28-01.40.24:458][516]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.28-01.40.24:458][516]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.28-01.40.24:458][516]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.28-01.40.24:458][516]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.28-01.40.24:458][516]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.28-01.40.24:458][516]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.28-01.40.24:459][516]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.28-01.40.24:459][516]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.28-01.40.24:459][516]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.28-01.40.24:462][516]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.28-01.40.24:520][516]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2024.01.28-01.40.24:520][516]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.28-01.40.24:520][516]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.28-01.40.24:520][516]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.28-01.40.24:522][516]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=38
+[2024.01.28-01.40.24:522][516]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=38
+[2024.01.28-01.40.24:526][516]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=38
+[2024.01.28-01.40.24:526][516]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=38
+[2024.01.28-01.40.24:526][516]LogInit: FAudioDevice initialized with ID 38.
+[2024.01.28-01.40.24:526][516]LogAudio: Display: Audio Device (ID: 38) registered with world 'Map_GuppyfishLevel'.
+[2024.01.28-01.40.24:526][516]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 38
+[2024.01.28-01.40.24:530][516]LogLoad: Game class is 'GM_SpeedBaiting_C'
+[2024.01.28-01.40.24:531][516]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_GuppyfishLevel.Map_GuppyfishLevel up for play (max tick rate 60) at 2024.01.27-17.40.24
+[2024.01.28-01.40.24:532][516]LogWorld: Bringing up level for play took: 0.001183
+[2024.01.28-01.40.24:535][516]PIE: Server logged in
+[2024.01.28-01.40.24:537][516]PIE: Play in editor total start time 0.157 seconds.
+[2024.01.28-01.40.25:740][580]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-01.40.25:740][580]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_GuppyfishLevel
+[2024.01.28-01.40.25:741][580]LogWorld: UWorld::CleanupWorld for Map_GuppyfishLevel, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-01.40.25:741][580]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-01.40.25:756][580]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.28-01.40.25:764][580]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-01.40.25:790][580]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-01.40.25:791][580]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 38
+[2024.01.28-01.40.25:791][580]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2024.01.28-01.40.25:794][580]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2024.01.28-01.40.25:808][580]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2024.01.28-01.40.25:973][581]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2024.01.28-01.40.26:835][619]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Worm.BP_Worm
+[2024.01.28-01.40.26:836][619]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-01.40.26:836][619]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-01.40.31:001][720]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-01.40.31:001][720]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-01.40.31:045][720]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Worm.BP_Worm
+[2024.01.28-01.40.31:045][720]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-01.40.31:045][720]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-01.40.34:890][849]LogViewport: Scene viewport resized to 1139x647, mode Windowed.
+[2024.01.28-01.40.54:144][391]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-01.40.54:144][391]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-01.40.58:808][535]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.28-01.40.58:808][535]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-01.40.58:808][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-01.41.03:649][691]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.28-01.41.03:886][691]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2024.01.28-01.41.03:905][691]LogSavePackage: Moving output files for package: /Game/Maps/Map_GuppyfishLevel
+[2024.01.28-01.41.03:909][691]LogSavePackage: Moving '../../../../../Users/Scott/Documents/GitHub/SpeedBaitingGame/SpeedBaiting 5.3/Saved/Map_GuppyfishLevel1272D69E43FAF101418917B8F39EC07E.tmp' to '../../../../../Users/Scott/Documents/GitHub/SpeedBaitingGame/SpeedBaiting 5.3/Content/Maps/Map_GuppyfishLevel.umap'
+[2024.01.28-01.41.03:928][691]LogFileHelpers: Saving map 'Map_GuppyfishLevel' took 0.117
+[2024.01.28-01.41.03:952][691]LogFileHelpers: InternalPromptForCheckoutAndSave took 302 ms (total: 5.91 sec)
+[2024.01.28-01.41.03:955][691]AssetCheck: New page: Asset Save: Map_GuppyfishLevel
+[2024.01.28-01.41.03:955][691]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/Map_GuppyfishLevel.Map_GuppyfishLevel
+[2024.01.28-01.42.13:028][783]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/CBP_PlayerInput.CBP_PlayerInput
+[2024.01.28-01.42.13:029][783]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-01.42.13:029][783]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-01.43.35:781][ 70]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.28-01.43.35:793][ 70]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.01.28-01.43.35:795][ 70]LogPlayLevel: [PlayLevel] Compiling CBP_PlayerInput before play...
+[2024.01.28-01.43.35:865][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2024.01.28-01.43.35:867][ 70]LogPlayLevel: PlayLevel: Blueprint regeneration took 73 ms (1 blueprints)
+[2024.01.28-01.43.35:867][ 70]PIE: New page: PIE session: Map_GuppyfishLevel (Jan 27, 2024, 9:43:35 AM)
+[2024.01.28-01.43.35:867][ 70]LogPlayLevel: Display: Creating online subsystem for client :Context_54
+[2024.01.28-01.43.35:871][ 70]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2024.01.28-01.43.35:903][ 71]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_GuppyfishLevel
+[2024.01.28-01.43.35:907][ 71]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003546s)
+[2024.01.28-01.43.35:907][ 71]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_GuppyfishLevel.Map_GuppyfishLevel to /Game/Maps/UEDPIE_0_Map_GuppyfishLevel.Map_GuppyfishLevel (0.003645s)
+[2024.01.28-01.43.35:950][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2024.01.28-01.43.35:953][ 71]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-01.43.35:953][ 71]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-01.43.35:954][ 71]LogAIModule: Creating AISystem for world Map_GuppyfishLevel
+[2024.01.28-01.43.35:955][ 71]LogPlayLevel: PIE: World Init took: (0.002212s)
+[2024.01.28-01.43.35:955][ 71]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2024.01.28-01.43.35:955][ 71]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.28-01.43.35:955][ 71]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.28-01.43.35:955][ 71]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.28-01.43.35:955][ 71]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.28-01.43.35:956][ 71]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.28-01.43.35:956][ 71]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.28-01.43.35:956][ 71]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.28-01.43.35:956][ 71]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.28-01.43.35:957][ 71]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.28-01.43.35:957][ 71]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.28-01.43.35:957][ 71]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.28-01.43.35:961][ 71]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.28-01.43.36:030][ 71]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2024.01.28-01.43.36:030][ 71]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.28-01.43.36:030][ 71]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.28-01.43.36:030][ 71]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.28-01.43.36:031][ 71]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2024.01.28-01.43.36:031][ 71]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=39
+[2024.01.28-01.43.36:036][ 71]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2024.01.28-01.43.36:036][ 71]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=39
+[2024.01.28-01.43.36:036][ 71]LogInit: FAudioDevice initialized with ID 39.
+[2024.01.28-01.43.36:036][ 71]LogAudio: Display: Audio Device (ID: 39) registered with world 'Map_GuppyfishLevel'.
+[2024.01.28-01.43.36:036][ 71]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 39
+[2024.01.28-01.43.36:041][ 71]LogLoad: Game class is 'GM_SpeedBaiting_C'
+[2024.01.28-01.43.36:044][ 71]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_GuppyfishLevel.Map_GuppyfishLevel up for play (max tick rate 60) at 2024.01.27-17.43.36
+[2024.01.28-01.43.36:044][ 71]LogWorld: Bringing up level for play took: 0.003011
+[2024.01.28-01.43.36:049][ 71]PIE: Server logged in
+[2024.01.28-01.43.36:050][ 71]PIE: Play in editor total start time 0.258 seconds.
+[2024.01.28-01.43.53:661][ 15]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-01.43.53:661][ 15]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_GuppyfishLevel
+[2024.01.28-01.43.53:662][ 15]LogWorld: UWorld::CleanupWorld for Map_GuppyfishLevel, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-01.43.53:662][ 15]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-01.43.53:686][ 15]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.28-01.43.53:695][ 15]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-01.43.53:729][ 15]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-01.43.53:729][ 15]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 39
+[2024.01.28-01.43.53:729][ 15]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2024.01.28-01.43.53:733][ 15]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2024.01.28-01.43.53:749][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2024.01.28-01.43.53:924][ 16]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2024.01.28-01.44.00:776][362]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.28-01.44.00:788][362]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.28-01.44.00:788][362]PIE: New page: PIE session: Map_GuppyfishLevel (Jan 27, 2024, 9:44:00 AM)
+[2024.01.28-01.44.00:788][362]LogPlayLevel: Display: Creating online subsystem for client :Context_55
+[2024.01.28-01.44.00:792][362]LogOnline: OSS: Created online subsystem instance for: :Context_55
+[2024.01.28-01.44.00:822][363]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Map_GuppyfishLevel
+[2024.01.28-01.44.00:826][363]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003648s)
+[2024.01.28-01.44.00:826][363]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map_GuppyfishLevel.Map_GuppyfishLevel to /Game/Maps/UEDPIE_0_Map_GuppyfishLevel.Map_GuppyfishLevel (0.003725s)
+[2024.01.28-01.44.00:854][363]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2024.01.28-01.44.00:857][363]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.28-01.44.00:857][363]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.28-01.44.00:858][363]LogAIModule: Creating AISystem for world Map_GuppyfishLevel
+[2024.01.28-01.44.00:858][363]LogPlayLevel: PIE: World Init took: (0.001465s)
+[2024.01.28-01.44.00:859][363]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2024.01.28-01.44.00:859][363]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.28-01.44.00:859][363]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.28-01.44.00:859][363]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.28-01.44.00:859][363]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.28-01.44.00:859][363]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.28-01.44.00:859][363]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.28-01.44.00:859][363]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.28-01.44.00:859][363]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.28-01.44.00:860][363]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.28-01.44.00:860][363]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.28-01.44.00:860][363]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.28-01.44.00:863][363]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.28-01.44.00:935][363]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2024.01.28-01.44.00:936][363]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.28-01.44.00:937][363]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.28-01.44.00:937][363]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.28-01.44.00:939][363]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=40
+[2024.01.28-01.44.00:939][363]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=40
+[2024.01.28-01.44.00:942][363]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=40
+[2024.01.28-01.44.00:942][363]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=40
+[2024.01.28-01.44.00:943][363]LogInit: FAudioDevice initialized with ID 40.
+[2024.01.28-01.44.00:943][363]LogAudio: Display: Audio Device (ID: 40) registered with world 'Map_GuppyfishLevel'.
+[2024.01.28-01.44.00:943][363]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 40
+[2024.01.28-01.44.00:947][363]LogLoad: Game class is 'GM_SpeedBaiting_C'
+[2024.01.28-01.44.00:949][363]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Map_GuppyfishLevel.Map_GuppyfishLevel up for play (max tick rate 60) at 2024.01.27-17.44.00
+[2024.01.28-01.44.00:949][363]LogWorld: Bringing up level for play took: 0.001191
+[2024.01.28-01.44.00:953][363]PIE: Server logged in
+[2024.01.28-01.44.00:954][363]PIE: Play in editor total start time 0.167 seconds.
+[2024.01.28-01.44.25:260][547]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-01.44.25:261][547]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Map_GuppyfishLevel
+[2024.01.28-01.44.25:261][547]LogWorld: UWorld::CleanupWorld for Map_GuppyfishLevel, bSessionEnded=true, bCleanupResources=true
+[2024.01.28-01.44.25:261][547]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-01.44.25:271][547]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.28-01.44.25:282][547]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.28-01.44.25:308][547]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.28-01.44.25:308][547]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 40
+[2024.01.28-01.44.25:308][547]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2024.01.28-01.44.25:311][547]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2024.01.28-01.44.25:325][547]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2024.01.28-01.44.25:422][548]LogPlayLevel: Display: Destroying online subsystem :Context_55
